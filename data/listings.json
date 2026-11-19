@@ -1,0 +1,6049 @@
+[
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-17T09:50:45.493224Z",
+    "company": "Apple",
+    "company_slug": "apple",
+    "date_posted": "2026-09-17",
+    "enrichment": null,
+    "external_id": "200676908",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:apple:200676908",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "custom",
+    "status": "closed",
+    "title": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+    "url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-17T07:50:49.024953Z",
+    "company": "Apple",
+    "company_slug": "apple",
+    "date_posted": "2026-09-20",
+    "enrichment": null,
+    "external_id": "200684719",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:apple:200684719",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "custom",
+    "status": "closed",
+    "title": "PhD Intern, Apple Ads (Machine Learning)",
+    "url": "https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR"
+  },
+  {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Google",
+    "company_slug": "google",
+    "date_posted": "2026-09-07",
+    "enrichment": null,
+    "external_id": "109375266236572358",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:google:109375266236572358",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnataka, India",
+      "Hyderabad, Telangana, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Silicon Engineering Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Google",
+    "company_slug": "google",
+    "date_posted": "2026-09-07",
+    "enrichment": null,
+    "external_id": "109976286780105414",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:google:109976286780105414",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnataka, India",
+      "Hyderabad, Telangana, India",
+      "Pune, Maharashtra, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Software Engineering PhD Intern, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414"
+  },
+  {
+    "category": "product",
+    "closed_at": "2026-11-04T17:56:47.793308Z",
+    "company": "Google",
+    "company_slug": "google",
+    "date_posted": "2026-10-28",
+    "enrichment": null,
+    "external_id": "78252225691820742",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:google:78252225691820742",
+    "is_remote": false,
+    "last_seen": "2026-11-04",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "custom",
+    "status": "closed",
+    "title": "User Experience Design Intern, Summer 2027, YouTube UX",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/78252225691820742"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-09T18:01:22.267229Z",
+    "company": "Google",
+    "company_slug": "google",
+    "date_posted": "2026-10-28",
+    "enrichment": null,
+    "external_id": "87534302853505734",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:google:87534302853505734",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, Telangana, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "custom",
+    "status": "closed",
+    "title": "Research Scientist PhD Intern, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Google",
+    "company_slug": "google",
+    "date_posted": "2026-11-16",
+    "enrichment": null,
+    "external_id": "96299220855595718",
+    "first_seen": "2026-11-16T07:40:43.386328Z",
+    "id": "custom:google:96299220855595718",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Forward Deployed Engineer Intern, 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/96299220855595718"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "B-I01",
+    "first_seen": "2026-11-05T06:40:40.713522Z",
+    "id": "custom:juspay:B-I01",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "BD - Intern",
+    "url": "https://joinus.juspay.in/?jobId=B-I01"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "DEV-BE02",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:juspay:DEV-BE02",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Software Development Engineer Backend Intern",
+    "url": "https://joinus.juspay.in/?jobId=DEV-BE02"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "DEV-BE04",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:juspay:DEV-BE04",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Mumbai"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Software Development Engineer Backend Intern",
+    "url": "https://joinus.juspay.in/?jobId=DEV-BE04"
+  },
+  {
+    "category": "product",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "PDE01",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:juspay:PDE01",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Product Designer Intern",
+    "url": "https://joinus.juspay.in/?jobId=PDE01"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "PSE02",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:juspay:PSE02",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Product Solution Engineer Intern",
+    "url": "https://joinus.juspay.in/?jobId=PSE02"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "QE05",
+    "first_seen": "2026-11-17T13:20:43.066677Z",
+    "id": "custom:juspay:QE05",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Quality Engineer Intern",
+    "url": "https://joinus.juspay.in/?jobId=QE05"
+  },
+  {
+    "category": "quant",
+    "closed_at": null,
+    "company": "Quadeye",
+    "company_slug": "quadeye",
+    "date_posted": "2026-06-29",
+    "enrichment": null,
+    "external_id": "199893000002318371",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:quadeye:199893000002318371",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurgaon, Haryana, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Intern - Quant Researcher",
+    "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Quadeye",
+    "company_slug": "quadeye",
+    "date_posted": "2026-06-29",
+    "enrichment": null,
+    "external_id": "199893000002318430",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:quadeye:199893000002318430",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurgaon, Haryana, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "custom",
+    "status": "open",
+    "title": "Intern - Systems Engineer",
+    "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-18T12:40:48.649411Z",
+    "company": "Quadeye",
+    "company_slug": "quadeye",
+    "date_posted": "2026-08-11",
+    "enrichment": null,
+    "external_id": "199893000002318440",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "custom:quadeye:199893000002318440",
+    "is_remote": false,
+    "last_seen": "2026-11-18",
+    "locations": [
+      "Gurgaon, Haryana, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "custom",
+    "status": "closed",
+    "title": "Intern - Software Developer (Product)",
+    "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318440"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T05:01:27.279985Z",
+    "company": "Citi",
+    "company_slug": "citi",
+    "date_posted": "2026-11-12",
+    "enrichment": {
+      "degree": "Bachelor's or Master's degree",
+      "duration_months": 2,
+      "eligible_batches": [
+        2026,
+        2027
+      ],
+      "enriched_at": "2026-11-12T12:21:37.344968Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "859038560823",
+    "first_seen": "2026-11-12T12:20:45.573211Z",
+    "id": "eightfold:citi:859038560823",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "MUMBAI, Mahārāshtra, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Banking - Commercial Banking, Summer Analyst, India – APAC, 2027",
+    "url": "https://citi.eightfold.ai/careers/job/859038560823"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-10T07:31:05.201535Z",
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-09-10",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687238812792",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "eightfold:eaton:687238812792",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Apprentice IT SAP ECC",
+    "url": "https://eaton.eightfold.ai/careers/job/687238812792"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-10T12:50:41.856692Z",
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-10-09",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687239452576",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "eightfold:eaton:687239452576",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687239452576"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-10-22",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687239705382",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "eightfold:eaton:687239705382",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687239705382"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-16T06:10:41.870755Z",
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-10-22",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-14T07:31:48.279538Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687239705711",
+    "first_seen": "2026-11-14T07:30:59.654164Z",
+    "id": "eightfold:eaton:687239705711",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687239705711"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-10T07:31:05.201535Z",
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-10-28",
+    "enrichment": {
+      "degree": "BE/ Diploma Mechanical",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T22:11:58.422312Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687239976322",
+    "first_seen": "2026-11-04T22:10:46.565444Z",
+    "id": "eightfold:eaton:687239976322",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Pune, Maharashtra, IND, 411045"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Apprentice - Materials",
+    "url": "https://eaton.eightfold.ai/careers/job/687239976322"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-11-05",
+    "enrichment": {
+      "degree": "BE (Preferred Electrical , Electronics ,Mechanical,Production etc )",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T05:11:50.949478Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687240066841",
+    "first_seen": "2026-11-05T05:10:42.492368Z",
+    "id": "eightfold:eaton:687240066841",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Pune, Maharashtra, IND, 411045"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Intern - Quality",
+    "url": "https://eaton.eightfold.ai/careers/job/687240066841"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-11-11",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T10:51:58.934973Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "687240121118",
+    "first_seen": "2026-11-11T10:50:41.388369Z",
+    "id": "eightfold:eaton:687240121118",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687240121118"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-09T13:50:43.254265Z",
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "date_posted": "2026-02-27",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1970393556641091",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:microsoft:1970393556641091",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "India, Multiple Locations, Multiple Locations"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Research Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "date_posted": "2026-10-26",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1970393556917519",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:microsoft:1970393556917519",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "India, Multiple Locations, Multiple Locations"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Applied Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519"
+  },
+  {
+    "category": "product",
+    "closed_at": null,
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "date_posted": "2026-08-25",
+    "enrichment": {
+      "degree": "Master of Business Administration (MBA)",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1970393556978896",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:microsoft:1970393556978896",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "India, Multiple Locations, Multiple Locations"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Product Management INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556978896"
+  },
+  {
+    "category": "product",
+    "closed_at": "2026-11-17T07:50:49.024953Z",
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "date_posted": "2026-09-10",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1970393556992502",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:microsoft:1970393556992502",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "India, Multiple Locations, Multiple Locations"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Product Design INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556992502"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "date_posted": "2026-10-23",
+    "enrichment": {
+      "degree": "Bachelor's Degree in Statistics, Mathematics, Computer Science or related field",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1970393557043380",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:microsoft:1970393557043380",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "India, Multiple Locations, Multiple Locations"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Security Research INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043380"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-17T01:40:41.085944Z",
+    "company": "PayPal",
+    "company_slug": "paypal",
+    "date_posted": "2026-11-09",
+    "enrichment": {
+      "degree": "Bachelor’s degree in Computer Science or related field",
+      "duration_months": null,
+      "eligible_batches": [
+        2028
+      ],
+      "enriched_at": "2026-11-09T06:02:08.174877Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "274923210258",
+    "first_seen": "2026-11-09T06:01:16.530921Z",
+    "id": "eightfold:paypal:274923210258",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Bangalore, Karnataka, India",
+      "Chennai, Tamil Nadu, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Software Engineer Intern",
+    "url": "https://paypal.eightfold.ai/careers/job/274923210258"
+  },
+  {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "date_posted": "2026-09-09",
+    "enrichment": {
+      "degree": "Masters, Bachelors: Electrical Engineering , VLSI , Embedded and VLSI , ECE",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "446719784824",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:qualcomm:446719784824",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore, India",
+      "Hyderabad, Telangāna, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Interim Engineering Intern_2027_HW",
+    "url": "https://careers.qualcomm.com/careers/job/446719784824"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-10T05:20:41.419950Z",
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "date_posted": "2026-09-15",
+    "enrichment": {
+      "degree": "Masters, Bachelors: Computer Science Engineering, Communication Engineering, ECE",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "446719785836",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "eightfold:qualcomm:446719785836",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, Telangāna, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Interim Engineering Intern_2027_SW",
+    "url": "https://careers.qualcomm.com/careers/job/446719785836"
+  },
+  {
+    "category": "product",
+    "closed_at": "2026-11-17T06:40:44.731236Z",
+    "company": "Glance",
+    "company_slug": "glance",
+    "date_posted": "2026-06-08",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-03T06:02:09.445397Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "7916115",
+    "first_seen": "2026-11-03T06:01:17.396031Z",
+    "id": "greenhouse:glance:7916115",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "closed",
+    "title": "UX Design - Intern",
+    "url": "https://job-boards.greenhouse.io/glance/jobs/7916115"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-09-06",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "8166514",
+    "first_seen": "2026-10-27T07:36:29.514766Z",
+    "id": "greenhouse:rubrik:8166514",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "ENG Project/ Program - Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-09-06",
+    "enrichment": {
+      "degree": "Bachelor’s or Master’s degree, preferably in Computer Science",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-03T04:41:25.760030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "winter"
+    },
+    "external_id": "8166537",
+    "first_seen": "2026-11-03T04:40:40.226192Z",
+    "id": "greenhouse:rubrik:8166537",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer (CPD) - Winter Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T05:01:16.707544Z",
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-10-13",
+    "enrichment": {
+      "degree": "Chartered Accountancy (CA) qualification",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "8266405",
+    "first_seen": "2026-10-27T07:36:29.514766Z",
+    "id": "greenhouse:rubrik:8266405",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "closed",
+    "title": "Industrial Trainee",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405"
+  },
+  {
+    "category": "product",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-11-04",
+    "enrichment": {
+      "degree": "MBA/management program",
+      "duration_months": 2,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-04T07:41:40.326278Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "8345283",
+    "first_seen": "2026-11-04T07:40:46.618761Z",
+    "id": "greenhouse:rubrik:8345283",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Product Management Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-11T13:11:12.029856Z",
+    "company": "Sigmoid",
+    "company_slug": "sigmoid",
+    "date_posted": "2026-11-10",
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": [
+        2026,
+        2027
+      ],
+      "enriched_at": "2026-11-10T10:33:23.708179Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "25,000 per month for 6 months",
+      "term": "six_month"
+    },
+    "external_id": "8927991002",
+    "first_seen": "2026-11-10T10:31:36.306882Z",
+    "id": "greenhouse:sigmoid:8927991002",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "closed",
+    "title": "DE Intern + SDE Trainee - Off Campus Hiring 2026",
+    "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8927991002"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Stripe",
+    "company_slug": "stripe",
+    "date_posted": "2026-07-10",
+    "enrichment": {
+      "degree": "Bachelor’s or Master’s degree in computer science, math, or a related discipline",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "8031833",
+    "first_seen": "2026-10-27T07:36:29.514766Z",
+    "id": "greenhouse:stripe:8031833",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-10-30T05:01:11.312824Z",
+    "company": "Tower Research Capital",
+    "company_slug": "tower-research-capital",
+    "date_posted": "2026-08-20",
+    "enrichment": null,
+    "external_id": "8143756",
+    "first_seen": "2026-10-27T07:36:29.514766Z",
+    "id": "greenhouse:tower-research-capital:8143756",
+    "is_remote": false,
+    "last_seen": "2026-10-30",
+    "locations": [
+      "Gurgaon"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "greenhouse",
+    "status": "closed",
+    "title": "Intern - AI/ML",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
+  },
+  {
+    "category": "product",
+    "closed_at": "2026-11-12T06:50:42.925666Z",
+    "company": "Hevo Data",
+    "company_slug": "hevo-data",
+    "date_posted": "2026-07-08",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-03T11:51:30.849094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "433ffdef-3125-48ed-a131-52c697c321ee",
+    "first_seen": "2026-11-03T11:50:41.088425Z",
+    "id": "lever:hevo-data:433ffdef-3125-48ed-a131-52c697c321ee",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Bangalore, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "lever",
+    "status": "closed",
+    "title": "UX Design Intern",
+    "url": "https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Hevo Data",
+    "company_slug": "hevo-data",
+    "date_posted": "2026-09-21",
+    "enrichment": {
+      "degree": "B Tech in Computer Science or equivalent",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-03T06:11:29.019885Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "993a3ed3-3014-432f-b0f4-28d300d58d9a",
+    "first_seen": "2026-11-03T06:10:41.248990Z",
+    "id": "lever:hevo-data:993a3ed3-3014-432f-b0f4-28d300d58d9a",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "lever",
+    "status": "open",
+    "title": "Associate Software Development Engineer (SDE) Intern",
+    "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Paytm",
+    "company_slug": "paytm",
+    "date_posted": "2026-11-19",
+    "enrichment": null,
+    "external_id": "0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+    "first_seen": "2026-11-19T09:01:18.293436Z",
+    "id": "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+    "is_remote": true,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Noida, Uttar Pradesh"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "lever",
+    "status": "open",
+    "title": "Backend - Intern ( SEA & Europe)",
+    "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T19:10:44.122982Z",
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-02",
+    "enrichment": {
+      "degree": "Bachelor’s degree",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-02T09:51:28.169772Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26015382",
+    "first_seen": "2026-11-02T09:50:42.810244Z",
+    "id": "oracle_hcm:american-express:26015382",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "closed",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26015382"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-03T19:10:45.111402Z",
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-10-27",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26015791",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "oracle_hcm:american-express:26015791",
+    "is_remote": false,
+    "last_seen": "2026-11-03",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "closed",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26015791"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-19",
+    "enrichment": {
+      "degree": "Bachelor’s degree",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T13:02:07.763094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26016056",
+    "first_seen": "2026-11-04T13:01:16.346216Z",
+    "id": "oracle_hcm:american-express:26016056",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-12",
+    "enrichment": {
+      "degree": "Bachelor’s degree",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-12T17:02:13.604941Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26016514",
+    "first_seen": "2026-11-12T17:01:16.958272Z",
+    "id": "oracle_hcm:american-express:26016514",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016514"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-18",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:43:40.661094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26016519",
+    "first_seen": "2026-11-18T06:40:42.718207Z",
+    "id": "oracle_hcm:american-express:26016519",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016519"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-18",
+    "enrichment": {
+      "degree": "Commerce, Finance, Accounting, Business, Economics or a related field",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:43:40.661094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26016522",
+    "first_seen": "2026-11-18T06:40:42.718207Z",
+    "id": "oracle_hcm:american-express:26016522",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016522"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-18",
+    "enrichment": {
+      "degree": "Commerce/Business Administration",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T07:14:08.398097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26016754",
+    "first_seen": "2026-11-18T07:10:51.783851Z",
+    "id": "oracle_hcm:american-express:26016754",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, KA, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016754"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T00:50:42.495109Z",
+    "company": "Nokia",
+    "company_slug": "nokia",
+    "date_posted": "2026-11-06",
+    "enrichment": {
+      "degree": "Ph.D. or MS Research program",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-06T07:52:02.161241Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "39934",
+    "first_seen": "2026-11-06T07:50:58.657752Z",
+    "id": "oracle_hcm:nokia:39934",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "oracle_hcm",
+    "status": "closed",
+    "title": "Student Intern - Research",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39934"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:31:06.114010Z",
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-11-10",
+    "enrichment": null,
+    "external_id": "R172424",
+    "first_seen": "2026-11-04T05:50:42.360172Z",
+    "id": "phenom:adobe:R172424",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Bangalore, Karnātaka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "phenom",
+    "status": "closed",
+    "title": "2027 Intern - Research Intern",
+    "url": "https://careers.adobe.com/us/en/job/R172424"
+  },
+  {
+    "category": "product",
+    "closed_at": "2026-11-12T15:31:04.888890Z",
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-11-12",
+    "enrichment": null,
+    "external_id": "R172738",
+    "first_seen": "2026-11-12T07:10:46.557385Z",
+    "id": "phenom:adobe:R172738",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Bangalore, Karnātaka, India",
+      "Noida, Uttar Pradesh, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "phenom",
+    "status": "closed",
+    "title": "2027 Intern - Product Design Intern",
+    "url": "https://careers.adobe.com/us/en/job/R172738"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-10-19",
+    "enrichment": null,
+    "external_id": "R173016",
+    "first_seen": "2026-10-28T20:02:15.898496Z",
+    "id": "phenom:adobe:R173016",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "phenom",
+    "status": "open",
+    "title": "2027 Intern - Research PhD Intern",
+    "url": "https://careers.adobe.com/us/en/job/R173016"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-12T09:30:58.820878Z",
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-11-12",
+    "enrichment": null,
+    "external_id": "R173562",
+    "first_seen": "2026-11-11T13:11:12.029856Z",
+    "id": "phenom:adobe:R173562",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Bangalore, Karnātaka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "phenom",
+    "status": "closed",
+    "title": "Adobe Intern FY27",
+    "url": "https://careers.adobe.com/us/en/job/R173562"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10448021",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10448021",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "New Delhi"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Internship_ FSTD",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship--FSTD_JR10448021"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10448073",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10448073",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "New Delhi"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Internship_FSTD",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship-FSTD_JR10448073"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10448390",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10448390",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "FTM Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390"
+  },
+  {
+    "category": "core",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T22:02:06.695246Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10449142",
+    "first_seen": "2026-11-04T22:01:13.786203Z",
+    "id": "workday:airbus:JR10449142",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Internship- Structures",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-09T06:20:43.656072Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449171",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449171",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Internship - Technical Data Support & Services",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data-Support---Services_JR10449171"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-09T06:20:43.656072Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449374",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449374",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Technical Data Authoring Intern - Airframe",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-09T06:20:43.656072Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449384",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449384",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Technical Data Analyst Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-09T06:20:43.656072Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449386",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449386",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Technical Data Analyst Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T07:43:42.728565Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449392",
+    "first_seen": "2026-11-19T07:40:44.685358Z",
+    "id": "workday:airbus:JR10449392",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Technical Data Analyst Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-09T06:20:43.656072Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME / degree level (or equivalent) in Engineering or a related discipline",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449495",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449495",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern - Maintenance Engineering & Services",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449495"
+  },
+  {
+    "category": "core",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME / degree level (or equivalent) in Engineering or a related discipline",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T14:11:35.562639Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449517",
+    "first_seen": "2026-11-16T13:40:43.079388Z",
+    "id": "workday:airbus:JR10449517",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern - Maintenance Engineering & Services",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-12T07:01:10.842864Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449537",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449537",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Internship - Technical Data",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449537"
+  },
+  {
+    "category": "core",
+    "closed_at": "2026-11-11T06:20:44.247728Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "AME/BTech (Aerospace/Mech)",
+      "duration_months": 3,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR10449542",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449542",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Internship - Technical Data",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449542"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "MS/ Ph.D. in A.I./M.L.",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10449573",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449573",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Artificial_Intelligence_For_Systems_Engineering_Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Artificial-Intelligence-For-Systems-Engineering-Intern_JR10449573"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-19T06:20:44.778212Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "A.M.E / Bachelor / Master Degree",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T21:02:18.369372Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR10449695",
+    "first_seen": "2026-11-04T21:01:18.095155Z",
+    "id": "workday:airbus:JR10449695",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Internship- FTM MOC",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
+  },
+  {
+    "category": "hardware",
+    "closed_at": "2026-11-11T21:10:45.457297Z",
+    "company": "Analog Devices",
+    "company_slug": "analog-devices",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-09T16:21:36.680869Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R267594",
+    "first_seen": "2026-11-09T16:20:41.955746Z",
+    "id": "workday:analog-devices:R267594",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "India, Bangalore, Nova"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Analog Design Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Analog-Design-Intern_R267594"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T21:10:45.457297Z",
+    "company": "Analog Devices",
+    "company_slug": "analog-devices",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-07T11:11:56.735965Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R267676",
+    "first_seen": "2026-11-07T11:10:43.166289Z",
+    "id": "workday:analog-devices:R267676",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "India, Bangalore, Nova"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Product Application Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Baxter",
+    "company_slug": "baxter",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T13:11:33.006813Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR-213466",
+    "first_seen": "2026-11-16T13:01:19.838150Z",
+    "id": "workday:baxter:JR-213466",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore, Karnataka"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Apprentice_JR-213466"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-13T13:10:46.626533Z",
+    "company": "Capital One",
+    "company_slug": "capital-one",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor's degree in Engineering or an Integrated Masters degree",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-13T11:32:16.879129Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "R1004749",
+    "first_seen": "2026-11-13T11:30:58.847649Z",
+    "id": "workday:capital-one:R1004749",
+    "is_remote": false,
+    "last_seen": "2026-11-13",
+    "locations": [
+      "Bangalore, In"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Software Engineering Intern",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Software-Engineering-Intern_R1004749"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-15T19:10:45.150749Z",
+    "company": "Caterpillar",
+    "company_slug": "caterpillar",
+    "date_posted": "2026-11-13",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-13T06:32:14.218968Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0000390980",
+    "first_seen": "2026-11-13T06:30:58.013932Z",
+    "id": "workday:caterpillar:R0000390980",
+    "is_remote": false,
+    "last_seen": "2026-11-15",
+    "locations": [
+      "Bangalore, Karnataka",
+      "Thiruvallur, Tamil Nadu",
+      "Chennai, Tamil Nadu"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "CA / CMA Internship",
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/CA---CMA-Internship_R0000390980"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-19T06:50:42.671242Z",
+    "company": "Caterpillar",
+    "company_slug": "caterpillar",
+    "date_posted": "2026-11-19",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-09T04:51:47.916461Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0000400270",
+    "first_seen": "2026-11-09T04:50:40.089129Z",
+    "id": "workday:caterpillar:R0000400270",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Chennai, Tamil Nadu",
+      "Bangalore, Karnataka",
+      "Thiruvallur, Tamil Nadu",
+      "Bangalore, Karnataka",
+      "Thiruvallur, Tamil Nadu"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Students & Graduates Intern",
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-19T10:10:45.769931Z",
+    "company": "Ciena",
+    "company_slug": "ciena",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T08:14:00.044546Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R031737",
+    "first_seen": "2026-11-19T08:10:47.358954Z",
+    "id": "workday:ciena:R031737",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Engineering Applications Developer_Intern",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Engineering-Applications-Developer-Intern_R031737"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-13T16:10:46.326013Z",
+    "company": "Ciena",
+    "company_slug": "ciena",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T06:51:44.824345Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R031854",
+    "first_seen": "2026-11-05T06:50:42.824223Z",
+    "id": "workday:ciena:R031854",
+    "is_remote": false,
+    "last_seen": "2026-11-13",
+    "locations": [
+      "Gurugram"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "C/C++/Python/Jana Intern",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/C-C---Python-Jana-Intern_R031854"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013356",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013356",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013356"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-15T19:10:45.150749Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013357",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013357",
+    "is_remote": false,
+    "last_seen": "2026-11-15",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013357"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013358",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013358",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013358"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:31:01.852678Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T07:32:08.858567Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013359",
+    "first_seen": "2026-11-09T07:31:01.172828Z",
+    "id": "workday:cigna:26013359",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013359"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T09:51:51.285322Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013360",
+    "first_seen": "2026-11-09T09:50:41.479478Z",
+    "id": "workday:cigna:26013360",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013360"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T07:32:08.858567Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013361",
+    "first_seen": "2026-11-09T07:31:01.172828Z",
+    "id": "workday:cigna:26013361",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013361"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T07:50:42.973343Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T09:51:51.285322Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013362",
+    "first_seen": "2026-11-09T09:50:41.479478Z",
+    "id": "workday:cigna:26013362",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013362"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013363",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013363",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013363"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:31:06.114010Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013364",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013364",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013364"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T07:32:08.858567Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013365",
+    "first_seen": "2026-11-09T07:31:01.172828Z",
+    "id": "workday:cigna:26013365",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013365"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:31:01.852678Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T07:32:08.858567Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013366",
+    "first_seen": "2026-11-09T07:31:01.172828Z",
+    "id": "workday:cigna:26013366",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013366"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T07:32:08.858567Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013367",
+    "first_seen": "2026-11-09T07:31:01.172828Z",
+    "id": "workday:cigna:26013367",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013367"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:10:45.517714Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013368",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013368",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013368"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-19T12:14:03.124140Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013369",
+    "first_seen": "2026-11-19T12:10:45.690739Z",
+    "id": "workday:cigna:26013369",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013369"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-19T12:14:03.124140Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013370",
+    "first_seen": "2026-11-19T12:10:45.690739Z",
+    "id": "workday:cigna:26013370",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013370"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T15:31:03.274120Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013371",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013371",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013371"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T15:31:03.274120Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T11:32:08.463787Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013372",
+    "first_seen": "2026-11-09T11:31:01.393708Z",
+    "id": "workday:cigna:26013372",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013372"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:31:02.925180Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T09:51:51.285322Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013373",
+    "first_seen": "2026-11-09T09:50:41.479478Z",
+    "id": "workday:cigna:26013373",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013373"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013374",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013374",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013374"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013375",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013375",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013375"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T15:31:03.274120Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "Competitive, based on college tier",
+      "term": "unknown"
+    },
+    "external_id": "26013376",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013376",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013376"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:31:01.852678Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013752",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013752",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013752"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T11:32:08.463787Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013753",
+    "first_seen": "2026-11-09T11:31:01.393708Z",
+    "id": "workday:cigna:26013753",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013753"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013754",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013754",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013754"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T09:51:51.285322Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013755",
+    "first_seen": "2026-11-09T09:50:41.479478Z",
+    "id": "workday:cigna:26013755",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013755"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T15:31:03.274120Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013756",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013756",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013756"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech degree",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013757",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013757",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013757"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T11:31:02.926706Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013758",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013758",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013758"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013760",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013760",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013760"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:50:44.000418Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T11:32:08.463787Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013764",
+    "first_seen": "2026-11-09T11:31:01.393708Z",
+    "id": "workday:cigna:26013764",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013764"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-15T19:10:45.150749Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013766",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013766",
+    "is_remote": false,
+    "last_seen": "2026-11-15",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013766"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:50:44.925097Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013767",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013767",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013767"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013768",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013768",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013768"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013769",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013769",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013769"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013773",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013773",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013773"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:50:47.075954Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T11:32:08.463787Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013774",
+    "first_seen": "2026-11-09T11:31:01.393708Z",
+    "id": "workday:cigna:26013774",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013774"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013775",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013775",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013775"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:50:44.925097Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013776",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013776",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013776"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013777",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013777",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013777"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T10:10:41.413339Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013780",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013780",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013780"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:50:44.000418Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013781",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013781",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013781"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:50:44.000418Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013782",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013782",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013782"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:31:06.114010Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T11:32:08.463787Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013783",
+    "first_seen": "2026-11-09T11:31:01.393708Z",
+    "id": "workday:cigna:26013783",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013783"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-15T19:10:45.150749Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013784",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013784",
+    "is_remote": false,
+    "last_seen": "2026-11-15",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013784"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013788",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013788",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013788"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:31:01.852678Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:11:53.656604Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013790",
+    "first_seen": "2026-11-09T10:10:43.971610Z",
+    "id": "workday:cigna:26013790",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013790"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:31:01.852678Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013791",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013791",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013791"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T11:31:02.926706Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013796",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013796",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013796"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T08:10:46.776187Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T08:51:51.098875Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013797",
+    "first_seen": "2026-11-09T08:50:42.417720Z",
+    "id": "workday:cigna:26013797",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013797"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-10T09:31:06.114010Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.E./B.Tech",
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:33:03.399044Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013798",
+    "first_seen": "2026-11-09T10:31:03.368468Z",
+    "id": "workday:cigna:26013798",
+    "is_remote": false,
+    "last_seen": "2026-11-10",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013798"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T15:10:41.939154Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-09T10:51:51.048097Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013799",
+    "first_seen": "2026-11-09T10:50:42.301865Z",
+    "id": "workday:cigna:26013799",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013799"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T07:50:44.000418Z",
+    "company": "Cigna",
+    "company_slug": "cigna",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": [
+        2027
+      ],
+      "enriched_at": "2026-11-10T11:12:05.109035Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "26013949",
+    "first_seen": "2026-11-10T11:10:46.262982Z",
+    "id": "workday:cigna:26013949",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "HIH - Co-Op/Intern (Non-US Only)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013949"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-10-30T18:50:43.440992Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": "2026-10-28",
+    "enrichment": null,
+    "external_id": "R0357981",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:deutsche-bank:R0357981",
+    "is_remote": false,
+    "last_seen": "2026-10-30",
+    "locations": [
+      "(do not use) Mumbai Nirlon Know. Pk B4-B5",
+      "Pune - Business Bay",
+      "Jaipur",
+      "Bangalore, Raheja Towers, 26-27 M. G. Road"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice---Non-Technology_R0357981"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PGPBA",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T06:51:53.321997Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0452134",
+    "first_seen": "2026-11-11T06:50:44.397815Z",
+    "id": "workday:deutsche-bank:R0452134",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PGPBA",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T06:21:36.987767Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0452193",
+    "first_seen": "2026-11-11T06:20:44.247728Z",
+    "id": "workday:deutsche-bank:R0452193",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PGPBA",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T06:41:42.222228Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0452271",
+    "first_seen": "2026-11-11T06:40:41.897667Z",
+    "id": "workday:deutsche-bank:R0452271",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Mumbai, Hazarimal Somani Marg"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PGPBA",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T06:51:53.321997Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0452276",
+    "first_seen": "2026-11-11T06:50:44.397815Z",
+    "id": "workday:deutsche-bank:R0452276",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Mumbai, Hazarimal Somani Marg"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452276"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PGPBA",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T06:21:36.987767Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0452577",
+    "first_seen": "2026-11-11T06:20:44.247728Z",
+    "id": "workday:deutsche-bank:R0452577",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452577"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-10-30T18:50:43.440992Z",
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0456794-1",
+    "first_seen": "2026-10-29T10:31:05.024204Z",
+    "id": "workday:deutsche-bank:R0456794-1",
+    "is_remote": false,
+    "last_seen": "2026-10-30",
+    "locations": [
+      "Mumbai, Nirlon Knowledge Park"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Knowledge-Park/Apprentice-Hiring-for-2026--2027_R0456794-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:11:33.586045Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4039429-1",
+    "first_seen": "2026-11-16T05:10:44.288236Z",
+    "id": "workday:ge-healthcare:R4039429-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Systems-Engineering-Intern_R4039429-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:11:33.586045Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4039482-1",
+    "first_seen": "2026-11-16T05:10:44.288236Z",
+    "id": "workday:ge-healthcare:R4039482-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern---System-Diagnostic-Tools_R4039482-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T19:10:43.746248Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.Tech or M.Tech in Computer Science Engineering, AI/ML",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T05:51:49.522261Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4039959-1",
+    "first_seen": "2026-11-11T05:50:42.117629Z",
+    "id": "workday:ge-healthcare:R4039959-1",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern_R4039959-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": "2026-11-06",
+    "enrichment": {
+      "degree": "Bachelor or Master studies",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-06T13:51:57.544031Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4040613",
+    "first_seen": "2026-11-06T13:50:44.762750Z",
+    "id": "workday:ge-healthcare:R4040613",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Krakow",
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Software Engineer Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-11T19:10:43.746248Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T05:51:49.522261Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4041234-1",
+    "first_seen": "2026-11-11T05:50:42.117629Z",
+    "id": "workday:ge-healthcare:R4041234-1",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Software Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041234-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-12T19:10:48.923154Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T05:51:49.522261Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4041235-1",
+    "first_seen": "2026-11-11T05:50:42.117629Z",
+    "id": "workday:ge-healthcare:R4041235-1",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Software Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:11:33.586045Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4041292-1",
+    "first_seen": "2026-11-16T05:10:44.288236Z",
+    "id": "workday:ge-healthcare:R4041292-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern_R4041292-1"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PhD in Computer Science / Data Sciences / AI",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4043882-1",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "workday:ge-healthcare:R4043882-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern - AI",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-18T19:10:46.652479Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelors/technical program",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-06T09:11:50.373269Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4045415-1",
+    "first_seen": "2026-11-06T09:10:40.918333Z",
+    "id": "workday:ge-healthcare:R4045415-1",
+    "is_remote": false,
+    "last_seen": "2026-11-18",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "EID Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/EID-Intern_R4045415-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.Tech or M.Tech in Computer Science Engineering, AI/ML",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:11:33.586045Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4045952-1",
+    "first_seen": "2026-11-16T05:10:44.288236Z",
+    "id": "workday:ge-healthcare:R4045952-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern_R4045952-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.Tech or M.Tech in Computer Science Engineering, AI/ML",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:11:33.586045Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4045953-1",
+    "first_seen": "2026-11-16T05:10:44.288236Z",
+    "id": "workday:ge-healthcare:R4045953-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern_R4045953-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:31:02.038137Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B.Tech or M.Tech in Computer Science Engineering, AI/ML",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T05:31:53.596718Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4046240-1",
+    "first_seen": "2026-11-16T05:31:00.494697Z",
+    "id": "workday:ge-healthcare:R4046240-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Intern_R4046240-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T19:10:44.552415Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 2,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-06T08:11:50.847069Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "R4049083-1",
+    "first_seen": "2026-11-06T08:10:45.029891Z",
+    "id": "workday:ge-healthcare:R4049083-1",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "IND36-01-Bengaluru-Kalyani Platina, Magnolia"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Commercial Development Program Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND36-01-Bengaluru-Kalyani-Platina-Magnolia/Commercial-Development-Program-Intern_R4049083-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-09T19:10:44.552415Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 24,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-06T09:32:07.259825Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4049088-1",
+    "first_seen": "2026-11-06T09:31:01.345025Z",
+    "id": "workday:ge-healthcare:R4049088-1",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "IND19-01-Bengaluru-EPIP 122 (Phase II)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Information Technology Development Program - Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Information-Technology-Development-Program---Intern_R4049088-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-19T19:10:47.912776Z",
+    "company": "GE HealthCare",
+    "company_slug": "ge-healthcare",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor’s degree in Engineering (Mechanical / Production) or equivalent",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T03:54:01.111316Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R4049562-1",
+    "first_seen": "2026-11-17T03:50:44.118304Z",
+    "id": "workday:ge-healthcare:R4049562-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Operational Management Leadership Program Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Operational-Management-Leadership-Program-Intern_R4049562-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R5027950-2",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "workday:ge-vernova:R5027950-2",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Chennai"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "DT Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/DT-Intern_R5027950-2"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "HP",
+    "company_slug": "hp",
+    "date_posted": "2026-11-11",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-12T06:02:00.221533Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "3169164-1",
+    "first_seen": "2026-11-12T06:01:08.649406Z",
+    "id": "workday:hp:3169164-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnataka, India",
+      "Chennai, Tamil Nadu, India",
+      "Gurugram, Haryana, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "College Intern - Technical",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/College-Intern---Technical_3169164-1"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PhD",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-12T06:12:04.622568Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "1191423",
+    "first_seen": "2026-11-12T06:10:43.589728Z",
+    "id": "workday:hpe:1191423",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Ph D/Research Intern - AI Research Lab",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Research-PhD_1191423"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1211843-2",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "workday:hpe:1211843-2",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "College Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/College-Intern_1211843-2"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-19T19:10:47.912776Z",
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T04:54:00.878043Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1211844",
+    "first_seen": "2026-11-18T04:50:45.448080Z",
+    "id": "workday:hpe:1211844",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Intern_1211844"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "College/University Graduate",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T10:32:24.143020Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1215487-1",
+    "first_seen": "2026-11-05T10:31:00.799496Z",
+    "id": "workday:hpe:1215487-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "External Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215487-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T19:10:43.746248Z",
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "College/University Graduate",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T10:11:59.005477Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1215489-2",
+    "first_seen": "2026-11-05T10:10:45.207268Z",
+    "id": "workday:hpe:1215489-2",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "External Apprentice",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Apprentice_1215489-2"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-19T19:10:47.912776Z",
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:54:03.058290Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1215491-3",
+    "first_seen": "2026-11-18T06:50:46.748294Z",
+    "id": "workday:hpe:1215491-3",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "External Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Hewlett Packard Enterprise",
+    "company_slug": "hpe",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T10:14:04.276587Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "1215608-1",
+    "first_seen": "2026-11-19T10:10:45.769931Z",
+    "id": "workday:hpe:1215608-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "External Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-18T14:10:49.161421Z",
+    "company": "Intel",
+    "company_slug": "intel",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor's degree / Masters in Computer Science/IT/Electronics",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-03T09:51:31.723606Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR0279777",
+    "first_seen": "2026-11-03T09:50:42.245657Z",
+    "id": "workday:intel:JR0279777",
+    "is_remote": false,
+    "last_seen": "2026-11-18",
+    "locations": [
+      "India, Bangalore"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Attraction Req : Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Intern_JR0279777"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-09T19:10:44.552415Z",
+    "company": "LSEG",
+    "company_slug": "lseg",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "CA, CPA, or a similar professional qualification",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-04T20:52:15.614030Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0119252-1",
+    "first_seen": "2026-11-04T20:51:05.533083Z",
+    "id": "workday:lseg:R0119252-1",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "IND-Bangalore-TowerE,RMZ Infin"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Intern_R0119252-1"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-17T09:50:45.493224Z",
+    "company": "LSEG",
+    "company_slug": "lseg",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T16:05:32.252368Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0123245",
+    "first_seen": "2026-11-16T14:50:41.842374Z",
+    "id": "workday:lseg:R0123245",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "IND-Bangalore-TowerE,RMZ Infin"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "AI/ML Intern",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/AI-ML-Intern_R0123245"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "LSEG",
+    "company_slug": "lseg",
+    "date_posted": "2026-11-19",
+    "enrichment": {
+      "degree": "Accounting, Finance, or a related field",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T07:34:13.374177Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R0125102",
+    "first_seen": "2026-11-19T07:31:01.063123Z",
+    "id": "workday:lseg:R0125102",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Colombo, Sri Lanka",
+      "IND-Bangalore-A, RMZ Infinity"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern, Accounts Receivables",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Accounts-Receivables_R0125102"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Marvell",
+    "company_slug": "marvell",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "2604253",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:marvell:2604253",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern, Physical AI and GPU (PhD)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253"
+  },
+  {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Marvell",
+    "company_slug": "marvell",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PhD, MS by Research, or MTech by Research program",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "2604254",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:marvell:2604254",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern (PhD), FPGA & Silicon Prototyping",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Marvell",
+    "company_slug": "marvell",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "2604255",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:marvell:2604255",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern (PhD), AI-Scale Protocols & Simulation",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Marvell",
+    "company_slug": "marvell",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PhD, MS by Research, or MTech by Research program",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "2604256",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:marvell:2604256",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern (PhD), Storage Systems for AI",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Marvell",
+    "company_slug": "marvell",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "2604257",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:marvell:2604257",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Research Intern (PhD), Autonomous Infrastructure and Telemetry",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-11T09:10:41.746359Z",
+    "company": "Micron",
+    "company_slug": "micron",
+    "date_posted": "2026-11-11",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T07:21:38.512387Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR108596",
+    "first_seen": "2026-11-11T07:20:44.575675Z",
+    "id": "workday:micron:JR108596",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Hyderabad - Phoenix Aquila, India",
+      "Bengaluru, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": null,
+    "company": "Nvidia",
+    "company_slug": "nvidia",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "PhD",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR2024423",
+    "first_seen": "2026-10-28T14:56:24.864120Z",
+    "id": "workday:nvidia:JR2024423",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "India, Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "NXP",
+    "company_slug": "nxp",
+    "date_posted": "2025-08-14",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R-10052538",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:nxp:R-10052538",
+    "is_remote": false,
+    "last_seen": "2026-11-07",
+    "locations": [
+      "Noida",
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Technical Internship  (2026)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "NXP",
+    "company_slug": "nxp",
+    "date_posted": "2026-09-07",
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-10-31T17:21:26.425732Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R-10066434",
+    "first_seen": "2026-10-29T09:10:42.406658Z",
+    "id": "workday:nxp:R-10066434",
+    "is_remote": false,
+    "last_seen": "2026-11-07",
+    "locations": [
+      "Bangalore",
+      "Noida"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Technical Internship 2027",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-08T19:03:32.647620Z",
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "BTech / MTech",
+      "duration_months": 10,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T05:21:34.021295Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "583018",
+    "first_seen": "2026-11-05T05:20:41.851617Z",
+    "id": "workday:philips:583018",
+    "is_remote": false,
+    "last_seen": "2026-11-08",
+    "locations": [
+      "Pune"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern - HIC - Pune (Only for Selected Students - Others PLZ DO NOT APPLY)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-16T06:20:42.991845Z",
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T04:02:06.348905Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "€[Min]–€[Max]",
+      "term": "unknown"
+    },
+    "external_id": "590165",
+    "first_seen": "2026-11-16T04:01:15.438807Z",
+    "id": "workday:philips:590165",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice Software Developer Trainee",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Software-Developer-Trainee_590165"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-19T12:01:23.681658Z",
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T12:04:20.127423Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "590723",
+    "first_seen": "2026-11-18T12:01:21.493626Z",
+    "id": "workday:philips:590723",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern – Data Science and AI Engineering",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-06T19:20:42.406653Z",
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Architecture, Civil Engineering, etc.",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-05T05:21:34.021295Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "590822",
+    "first_seen": "2026-11-05T05:20:41.851617Z",
+    "id": "workday:philips:590822",
+    "is_remote": false,
+    "last_seen": "2026-11-06",
+    "locations": [
+      "Chennai (ex Madras)"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Intern",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Intern_590822"
+  },
+  {
+    "category": "data_ml",
+    "closed_at": "2026-11-17T12:20:42.977678Z",
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T10:43:39.886038Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": "€[Min]–€[Max pay zone 2 / check local guidelines]",
+      "term": "unknown"
+    },
+    "external_id": "595706",
+    "first_seen": "2026-11-17T10:40:43.733286Z",
+    "id": "workday:philips:595706",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Jr AI Developer – Intern",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Jr-AI-Developer---Intern_595706"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-11T18:50:44.604620Z",
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "date_posted": "2026-11-11",
+    "enrichment": {
+      "degree": "B.E/ B.Tech in Computer Science, Information Technology and Circuit Branch",
+      "duration_months": null,
+      "eligible_batches": [
+        2028
+      ],
+      "enriched_at": "2026-11-11T11:32:41.922172Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "JR337715",
+    "first_seen": "2026-11-11T11:30:59.844496Z",
+    "id": "workday:salesforce:JR337715",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "India - Bangalore",
+      "India - Hyderabad"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-16T21:20:42.765942Z",
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "B. Com / BBA OR Postgraduate /MBA (Finance as major Specialization)",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-16T12:21:35.435067Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "329138-1",
+    "first_seen": "2026-11-16T12:01:18.131971Z",
+    "id": "workday:sp-global:329138-1",
+    "is_remote": false,
+    "last_seen": "2026-11-16",
+    "locations": [
+      "IN - HYDERABAD SKYVIEW"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Apprentice_329138-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-13T19:40:44.550270Z",
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": "2026-11-11",
+    "enrichment": {
+      "degree": "At least a bachelor's degree in any field or relevant discipline",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-11T13:41:36.967945Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332023-1",
+    "first_seen": "2026-11-11T13:40:45.190080Z",
+    "id": "workday:sp-global:332023-1",
+    "is_remote": false,
+    "last_seen": "2026-11-13",
+    "locations": [
+      "Hyderabad, Telangana",
+      "IN - NOIDA CANDOR TECHSPACE SECTOR 62"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice, Order to Cash",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Order-to-Cash_332023-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-17T19:20:44.571877Z",
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "At least a bachelor's degree in any field or relevant discipline",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T12:23:41.568112Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332029-1",
+    "first_seen": "2026-11-17T12:20:42.977678Z",
+    "id": "workday:sp-global:332029-1",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Noida, Uttarpradesh"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice OTC",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Noida-Uttarpradesh/Apprentice-OTC_332029-1"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-14T19:20:43.609525Z",
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-10T05:21:35.055148Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332203-1",
+    "first_seen": "2026-11-10T05:20:41.419950Z",
+    "id": "workday:sp-global:332203-1",
+    "is_remote": false,
+    "last_seen": "2026-11-14",
+    "locations": [
+      "Hyderabad, Telangana"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "Apprentice, Channels Client On-boarding Specialist",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Channels-Client-On-boarding-Specialist_332203-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor’s degree in Business, Finance, Economics, or Accounting",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T13:23:41.745838Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332797-1",
+    "first_seen": "2026-11-17T13:20:43.066677Z",
+    "id": "workday:sp-global:332797-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Mumbai, Maharastra"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice, Visible Alpha Client Support",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Apprentice--Visible-Alpha-Client-Support_332797-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor's degree in finance or equivalent",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T18:43:45.204054Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332883-1",
+    "first_seen": "2026-11-17T18:40:47.574810Z",
+    "id": "workday:sp-global:332883-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Ahmedabad, Gujarat"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice, Insurance Client Services",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Insurance-Client-Services_332883-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-17T13:04:27.098385Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "332888-1",
+    "first_seen": "2026-11-17T13:01:28.310708Z",
+    "id": "workday:sp-global:332888-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, Haryana"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice, Client Support",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Client-Support_332888-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Stryker",
+    "company_slug": "stryker",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T08:13:58.026176Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "R578197",
+    "first_seen": "2026-11-18T08:10:42.072730Z",
+    "id": "workday:stryker:R578197",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Intern_R578197"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "TransUnion",
+    "company_slug": "transunion",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "Bachelor’s degree",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T12:23:45.240078Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "19043345",
+    "first_seen": "2026-11-19T12:20:45.530208Z",
+    "id": "workday:transunion:19043345",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern - Process Excellence",
+    "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-07T18:50:42.860411Z",
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "date_posted": "2026-11-05",
+    "enrichment": {
+      "degree": "Bachelor's degree in engineering",
+      "duration_months": null,
+      "eligible_batches": [
+        2028
+      ],
+      "enriched_at": "2026-11-04T13:11:35.719239Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "summer"
+    },
+    "external_id": "R-557386",
+    "first_seen": "2026-11-04T13:10:45.546687Z",
+    "id": "workday:wells-fargo:R-557386",
+    "is_remote": false,
+    "last_seen": "2026-11-07",
+    "locations": [
+      "Bengaluru, India",
+      "Hyderabad, India"
+    ],
+    "missed_runs": 3,
+    "notified": true,
+    "source": "workday",
+    "status": "closed",
+    "title": "2027 Technology Program Intern",
+    "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "degree-seeking post-secondary educational institution",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T06:23:43.327192Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR103383",
+    "first_seen": "2026-11-19T06:20:44.778212Z",
+    "id": "workday:zebra-technologies:JR103383",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern-1",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-1_JR103383"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "degree-seeking post-secondary educational institution",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T06:04:19.705220Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR103384",
+    "first_seen": "2026-11-19T06:01:21.607020Z",
+    "id": "workday:zebra-technologies:JR103384",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern support II-1",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103384"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:23:42.340555Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103480",
+    "first_seen": "2026-11-18T06:20:45.037459Z",
+    "id": "workday:zebra-technologies:JR103480",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103480"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:04:12.633450Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103606",
+    "first_seen": "2026-11-18T06:01:15.068405Z",
+    "id": "workday:zebra-technologies:JR103606",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103606"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:04:12.633450Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103671",
+    "first_seen": "2026-11-18T06:01:15.068405Z",
+    "id": "workday:zebra-technologies:JR103671",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103671"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "degree-seeking post-secondary educational institution",
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T06:04:19.705220Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR103681",
+    "first_seen": "2026-11-19T06:01:21.607020Z",
+    "id": "workday:zebra-technologies:JR103681",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern support II-1",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103681"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": null,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-19T06:23:43.327192Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "unknown"
+    },
+    "external_id": "JR103699",
+    "first_seen": "2026-11-19T06:20:44.778212Z",
+    "id": "workday:zebra-technologies:JR103699",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern II",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-II_JR103699"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:04:12.633450Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103704",
+    "first_seen": "2026-11-18T06:01:15.068405Z",
+    "id": "workday:zebra-technologies:JR103704",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103704"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T07:04:17.316952Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103778",
+    "first_seen": "2026-11-18T07:01:18.625944Z",
+    "id": "workday:zebra-technologies:JR103778",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103778"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": "degree-seeking post-secondary educational institution",
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T07:04:17.316952Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103859",
+    "first_seen": "2026-11-18T07:01:18.625944Z",
+    "id": "workday:zebra-technologies:JR103859",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:43:40.661094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103862-1",
+    "first_seen": "2026-11-18T06:40:42.718207Z",
+    "id": "workday:zebra-technologies:JR103862-1",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103862-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:43:40.661094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103863",
+    "first_seen": "2026-11-18T06:40:42.718207Z",
+    "id": "workday:zebra-technologies:JR103863",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103863"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": {
+      "degree": null,
+      "duration_months": 6,
+      "eligible_batches": null,
+      "enriched_at": "2026-11-18T06:43:40.661094Z",
+      "model": "openai/gpt-oss-20b",
+      "stipend": null,
+      "term": "six_month"
+    },
+    "external_id": "JR103864",
+    "first_seen": "2026-11-18T06:40:42.718207Z",
+    "id": "workday:zebra-technologies:JR103864",
+    "is_remote": false,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": true,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864"
+  }
+]

@@ -1,0 +1,1469 @@
+[
+  {
+    "company_slug": "abbott",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 39,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "adobe",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 7,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "agoda",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 308,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "airbnb",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 190,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "airbus",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 132,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "alphagrep",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "amazon",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 1,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "amd",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 12,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "american-express",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 53,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ameriprise-financial",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 14,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "amplitude",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 53,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "analog-devices",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "anthropic",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 680,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "anyscale",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 22,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "apple",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 101,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "applied-materials",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 71,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "aqr-capital",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 42,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "atlan",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 7,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "atlassian",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 299,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "barclays",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 50,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "baxter",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 7,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "blackrock",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 20,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "bosch",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 150,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "broadcom",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 8,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "browserstack",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 14,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cadence",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 29,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "capital-one",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 14,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "caterpillar",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 75,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ciena",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 7,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cigna",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 84,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cisco",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 125,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "citi",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 4,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cockroach-labs",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 14,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cohesity",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 8,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "coinbase",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 274,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "commvault",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 59,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "contentstack",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 11,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "coursera",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 35,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cred",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "cummins",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 81,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "databricks",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 902,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "datadog",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 396,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "deutsche-bank",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 117,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "druva",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 28,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "duolingo",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 59,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "eaton",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 6,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "elastic",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 404,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "equifax",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 24,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ericsson",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 6,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "f5",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 18,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "fidelity-investments",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 4,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "figma",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 141,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "fivetran",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 197,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "freshworks",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ge-healthcare",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 65,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ge-vernova",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 176,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "gitlab",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 232,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "glance",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 27,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "goldman-sachs",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 5,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "google",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 4,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "grafana-labs",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 158,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "graviton-research-capital",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 23,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "groww",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 10,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "guidewire",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 27,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "hevo-data",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 41,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "highradius",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 69,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "hp",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 39,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "hpe",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 188,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "imc-trading",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 168,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "inmobi",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 80,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "intel",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 30,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "invesco",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 43,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ixigo",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 2,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "jfrog",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 70,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "johnson-controls",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 54,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "jpmorgan-chase",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 164,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "jump-trading",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 97,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "juspay",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 45,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "kong",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 122,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "launchdarkly",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 40,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "lseg",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 91,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "marvell",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 8,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "mastercard",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 59,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "meesho",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 51,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "micron",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 332,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "microsoft",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 6,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "mindtickle",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 19,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "mixpanel",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 44,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "mongodb",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 367,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "morgan-stanley",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 2,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "motorola-solutions",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "navan",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 222,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "new-relic",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 50,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "nokia",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 59,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "northern-trust",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 56,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "notion",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 143,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "nvidia",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 74,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "nxp",
+    "consecutive_failures": 900,
+    "failure_alerted": true,
+    "last_count": 48,
+    "last_error": "FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com",
+    "last_success": "2026-11-07",
+    "zero_since": null
+  },
+  {
+    "company_slug": "observe-ai",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 7,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "okta",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 383,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "onsemi",
+    "consecutive_failures": 1,
+    "failure_alerted": false,
+    "last_count": 30,
+    "last_error": "ConnectError: [Errno 11001] getaddrinfo failed",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "openai",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 812,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "oracle",
+    "consecutive_failures": 1,
+    "failure_alerted": false,
+    "last_count": 97,
+    "last_error": "ConnectError: [Errno 11001] getaddrinfo failed",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "palo-alto-networks",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 57,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "paypal",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 0,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "paytm",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 200,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "philips",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 34,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "phonepe",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 42,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "plane",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 34,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "postman",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 6,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "ptc",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 9,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "pure-storage",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 362,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "quadeye",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 25,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "qualcomm",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 3,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "razorpay",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 30,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "rippling",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 9,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "roblox",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 268,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "rockwell-automation",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 22,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "rubrik",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 183,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sabre",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 19,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "salesforce",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 55,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "samsara",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 330,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sarvam-ai",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 46,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "scale-ai",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 171,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "servicenow",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 12,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "shell",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 12,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sigmoid",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 45,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "signoz",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 13,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "snowflake",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 363,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sp-global",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 58,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sprinklr",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 6,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "squarepoint-capital",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 90,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "state-street",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 114,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "stripe",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 723,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "stryker",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 28,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "sumo-logic",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 23,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "swiggy",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 67,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "target",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 23,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "tekion",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 89,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "temporal",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 88,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "texas-instruments",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 65,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "thomson-reuters",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 41,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "toast",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 344,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "tower-research-capital",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 100,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "transunion",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 23,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "trimble",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 12,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "turing",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 39,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "twilio",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 104,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "uber",
+    "consecutive_failures": 1,
+    "failure_alerted": false,
+    "last_count": 343,
+    "last_error": "ConnectError: [Errno 11001] getaddrinfo failed",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "unisys",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 27,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "us-bank",
+    "consecutive_failures": 2,
+    "failure_alerted": false,
+    "last_count": 26,
+    "last_error": "BlockedError: blocked by site protection (Cloudflare challenge)",
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "vercel",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 92,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "visa",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 38,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "waymo",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 368,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "wells-fargo",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 62,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "wolters-kluwer",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 15,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "workday",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 14,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "worldquant",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 95,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "zebra-technologies",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 19,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "zeta",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 30,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "zeta-global",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 109,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "zscaler",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 354,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  },
+  {
+    "company_slug": "zuora",
+    "consecutive_failures": 0,
+    "failure_alerted": false,
+    "last_count": 36,
+    "last_error": null,
+    "last_success": "2026-11-19",
+    "zero_since": null
+  }
+]

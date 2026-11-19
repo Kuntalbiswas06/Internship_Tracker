@@ -1,0 +1,98 @@
+name: scrape
+
+on:
+  # Fallback only: GitHub often delays or skips scheduled runs on quiet repos (gaps of hours).
+  # The real trigger is an outside timer (e.g. cron-job.org) calling workflow_dispatch every
+  # 10 minutes. Minutes are off the busy :00/:15/:30/:45 marks on purpose.
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+    inputs:
+      simulate_failure:
+        description: "Demo only: fail on purpose to show the failure alert"
+        type: boolean
+        default: false
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  scrape:
+    name: Check career sites and publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # commit the updated data/ and README files
+      actions: read  # the run-gap watchdog reads previous run times
+    timeout-minutes: 10
+    steps:
+      # Credentials stay so the job can push the data commit; it uploads no artifacts.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 # zizmor: ignore[artipacked]
+
+      - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+
+      - run: uv sync --frozen
+
+      # Bad data in the repo stops the run before anything is sent or committed.
+      - name: Validate data
+        run: uv run python -m tracker validate
+
+      # Missing secrets are fine: the run still updates data/, it just skips Telegram.
+      - name: Simulated failure (demo only)
+        if: ${{ inputs.simulate_failure }}
+        run: exit 1
+
+      - name: Run tracker
+        id: tracker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          # Kill switch: set the repository variable CHANNEL_PAUSED=true to stop channel posts.
+          CHANNEL_PAUSED: ${{ vars.CHANNEL_PAUSED }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ secrets.GROQ_MODEL }}
+        run: uv run python -m tracker run
+
+      - name: Regenerate README
+        run: uv run python -m tracker readme
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data README.md README-archive.md STATUS.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(data): update listings"
+          # Retry: another push (a code change, a retry of this job) may have landed meanwhile.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push attempt $attempt failed; rebasing and retrying."
+            git pull --rebase || git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+          exit 1
+
+      # Covers failures Python never sees (checkout, install, validation, commit). When the tracker
+      # step itself failed it already sent its own crash message. Only the first failure alerts.
+      - name: Alert if the workflow itself failed
+        if: failure() && steps.tracker.outcome != 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then exit 0; fi
+          previous=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/scrape.yml/runs?status=completed&per_page=3" \
+            | jq -r --argjson id "$GITHUB_RUN_ID" '[.workflow_runs[] | select(.id != $id)][0].conclusion // ""' || true)
+          if [ "$previous" = "failure" ]; then echo "Previous run also failed; already alerted."; exit 0; fi
+          curl -s -o /dev/null --max-time 20 -X POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=🚨 internship-tracker: the workflow failed before the tracker could finish (install, data check or commit). See the Actions tab." || true
