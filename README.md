@@ -1,30 +1,3 @@
-# India Tech Internships Tracker
-
-An automatically updated list of **tech internships in India** (and remote-India) from the career
-pages of 160+ companies that Indian students want to intern at, from big tech and banks to
-startups: Google, Microsoft, Apple, Amazon, Nvidia, Goldman Sachs, Citi, Bosch, Quadeye, Juspay and
-more. A small label under each company name shows what kind of company it is.
-
-## How it works
-
-A GitHub Actions job checks each company's official career page on a schedule, keeps only
-internships located in India for tech roles, and compares them with what it saw last time.
-New postings are saved to [`data/listings.json`](data/listings.json) and this page is regenerated.
-There is no server and no database: this repository is the database.
-
-**Get alerts on Telegram:** the only official channel is [t.me/tech_internships](https://t.me/tech_internships).
-Any other channel using this name is not ours.
-
-Links always go to the company's official career page. We never ask for money, personal
-details or messages on WhatsApp/Telegram. Always apply on the company's site.
-
-Closed listings from the last 90 days are in [README-archive.md](README-archive.md). The live
-health of every company being watched is in [STATUS.md](STATUS.md).
-
-## Open internships
-
-Sorted newest first. **Age** is days since the company posted it (or since we first saw it).
-Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
 **75 open internships** across 27 companies · Last updated: 2026-11-20 (IST)
@@ -139,19 +112,3 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Juspay<br><sub>Fintech</sub> | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 15d |
 | Rubrik<br><sub>Big Tech</sub> | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 75d |
 <!-- LISTINGS:END -->
-
-## Contributing
-
-Know a company that should be here, or a listing that is wrong? Contribution guidelines and an
-issue form are coming soon. For now, open an issue on GitHub.
-
-## Disclaimer
-
-This is an unofficial, community project and is not affiliated with any company listed. Links go
-to the official career pages, but listings can be stale or changed: **always verify on the company
-site before applying.** Some companies publish their openings on pages that cannot be tracked
-automatically, so this list is not complete.
-
----
-
-© 2026 Sarthak Mohite. All rights reserved. See [LICENSE](LICENSE).
