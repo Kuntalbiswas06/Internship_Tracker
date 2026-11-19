@@ -405,8 +405,17 @@ def main() -> int:
         return 1
     data = json.loads(SRC.read_text(encoding="utf-8"))
     keep = (
-        "company", "title", "url", "category", "status", "locations",
-        "date_posted", "first_seen", "closed_at", "is_remote", "enrichment",
+        "company",
+        "title",
+        "url",
+        "category",
+        "status",
+        "locations",
+        "date_posted",
+        "first_seen",
+        "closed_at",
+        "is_remote",
+        "enrichment",
     )
     slim = [{k: d.get(k) for k in keep} for d in data]
     payload = json.dumps(slim, ensure_ascii=False).replace("</", "<\\/")
