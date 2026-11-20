@@ -821,7 +821,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -1223,7 +1223,7 @@
     "locations": [
       "Noida, Uttar Pradesh"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "lever",
     "status": "open",
@@ -1343,7 +1343,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1972,7 +1972,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -4624,7 +4624,7 @@
       "Chennai, Tamil Nadu, India",
       "Gurugram, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5622,7 +5622,7 @@
     "locations": [
       "Gurugram, Haryana"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5723,6 +5723,28 @@
     "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Zebra Technologies",
+    "company_slug": "zebra-technologies",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "JR103237",
+    "first_seen": "2026-11-20T21:29:34.364272Z",
+    "id": "workday:zebra-technologies:JR103237",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237"
+  },
+  {
     "category": "other",
     "closed_at": null,
     "company": "Zebra Technologies",
@@ -5805,7 +5827,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5835,7 +5857,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5865,7 +5887,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5955,7 +5977,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5985,7 +6007,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6015,7 +6037,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6045,7 +6067,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6075,7 +6097,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6105,7 +6127,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
