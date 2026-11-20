@@ -1,8 +1,8 @@
 
 <!-- LISTINGS:START -->
-**75 open internships** across 27 companies · Last updated: 2026-11-20 (IST)
+**78 open internships** across 29 companies · Last updated: 2026-11-20 (IST)
 
-### Software Engineering (29)
+### Software Engineering (31)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
@@ -32,9 +32,11 @@
 | Google<br><sub>Big Tech</sub> | Software Engineering PhD Intern, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 74d |
 | NXP<br><sub>Semiconductor</sub> | Technical Internship 2027 | Bangalore; Noida | 2027 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434) | 74d |
 | Rubrik<br><sub>Big Tech</sub> | Software Engineer (CPD) - Winter Intern<br><sub>🎓 Bachelor’s or Master’s degree, preferably in Computer Scien…</sub> | Bangalore | Winter | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 75d |
+| Rubrik<br><sub>Big Tech</sub> | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 75d |
 | Stripe<br><sub>Fintech</sub> | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 133d |
 | Quadeye<br><sub>Quant</sub> | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 144d |
 | NXP<br><sub>Semiconductor</sub> | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 463d |
+| Agoda<br><sub>Big Tech</sub> | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 770d |
 
 ### Data & ML (9)
 
@@ -79,10 +81,11 @@
 | Airbus<br><sub>Industrial</sub> | Intern - Maintenance Engineering & Services<br><sub>🎓 AME / degree level (or equivalent) in Engineering or a rela…</sub> | Bangalore Area | — | — | — | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517) | 4d |
 | Airbus<br><sub>Industrial</sub> | Internship- Structures | Bangalore Area | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142) | 15d |
 
-### Other (28)
+### Other (29)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Sarvam AI<br><sub>AI</sub> | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 0d |
 | American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 1d |
 | Cigna<br><sub>Consumer</sub> | HIH - Co-Op/Intern (Non-US Only)<br><sub>🎓 B.E./B.Tech</sub> | Hyderabad, India | — | 2027 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013369) | 1d |
 | Cigna<br><sub>Consumer</sub> | HIH - Co-Op/Intern (Non-US Only)<br><sub>🎓 B.E./B.Tech</sub> | Hyderabad, India | — | 2027 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013370) | 1d |

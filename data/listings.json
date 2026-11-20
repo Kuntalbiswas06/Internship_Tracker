@@ -1,5 +1,27 @@
 [
   {
+    "category": "other",
+    "closed_at": null,
+    "company": "Sarvam AI",
+    "company_slug": "sarvam-ai",
+    "date_posted": "2026-11-20",
+    "enrichment": null,
+    "external_id": "0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+    "first_seen": "2026-11-20T13:31:42.808726Z",
+    "id": "ashby:sarvam-ai:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "ashby",
+    "status": "open",
+    "title": "Product User Research, Intern",
+    "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72"
+  },
+  {
     "category": "data_ml",
     "closed_at": "2026-11-17T09:50:45.493224Z",
     "company": "Apple",
@@ -466,7 +488,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "eightfold:eaton:687239705382",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Pune, Maharashtra, IND, 411014"
     ],
@@ -560,7 +582,7 @@
     "locations": [
       "Pune, Maharashtra, IND, 411045"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -586,7 +608,7 @@
     "first_seen": "2026-11-11T10:50:41.388369Z",
     "id": "eightfold:eaton:687240121118",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Pune, Maharashtra, IND, 411014"
     ],
@@ -842,6 +864,28 @@
     "url": "https://careers.qualcomm.com/careers/job/446719785836"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Agoda",
+    "company_slug": "agoda",
+    "date_posted": "2024-10-11",
+    "enrichment": null,
+    "external_id": "6323041",
+    "first_seen": "2026-11-20T13:31:42.808726Z",
+    "id": "greenhouse:agoda:6323041",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Gurgaon"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041"
+  },
+  {
     "category": "product",
     "closed_at": "2026-11-17T06:40:44.731236Z",
     "company": "Glance",
@@ -902,6 +946,28 @@
     "status": "open",
     "title": "ENG Project/ Program - Intern",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-09-06",
+    "enrichment": null,
+    "external_id": "8166523",
+    "first_seen": "2026-11-20T13:31:42.808726Z",
+    "id": "greenhouse:rubrik:8166523",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer - Winter Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
   },
   {
     "category": "swe",
@@ -1131,7 +1197,7 @@
     "first_seen": "2026-11-03T06:10:41.248990Z",
     "id": "lever:hevo-data:993a3ed3-3014-432f-b0f4-28d300d58d9a",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bangalore, India"
     ],
@@ -1157,7 +1223,7 @@
     "locations": [
       "Noida, Uttar Pradesh"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "lever",
     "status": "open",
@@ -2628,7 +2694,7 @@
     "first_seen": "2026-11-19T12:10:45.690739Z",
     "id": "workday:cigna:26013369",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Hyderabad, India"
     ],
@@ -2660,7 +2726,7 @@
     "first_seen": "2026-11-19T12:10:45.690739Z",
     "id": "workday:cigna:26013370",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Hyderabad, India"
     ],
@@ -4161,7 +4227,7 @@
     "first_seen": "2026-11-06T13:50:44.762750Z",
     "id": "workday:ge-healthcare:R4040613",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Krakow",
       "Bengaluru"
@@ -4282,7 +4348,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:ge-healthcare:R4043882-1",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "IND19-01-Bengaluru-EPIP 122 (Phase II)"
     ],
@@ -4522,7 +4588,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:ge-vernova:R5027950-2",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Chennai"
     ],
@@ -4584,7 +4650,7 @@
     "first_seen": "2026-11-12T06:10:43.589728Z",
     "id": "workday:hpe:1191423",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -4614,7 +4680,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:hpe:1211843-2",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -4674,7 +4740,7 @@
     "first_seen": "2026-11-05T10:31:00.799496Z",
     "id": "workday:hpe:1215487-1",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -4764,7 +4830,7 @@
     "first_seen": "2026-11-19T10:10:45.769931Z",
     "id": "workday:hpe:1215608-1",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -4884,7 +4950,7 @@
     "first_seen": "2026-11-19T07:31:01.063123Z",
     "id": "workday:lseg:R0125102",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Colombo, Sri Lanka",
       "IND-Bangalore-A, RMZ Infinity"
@@ -5586,7 +5652,7 @@
     "locations": [
       "Gurugram, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
