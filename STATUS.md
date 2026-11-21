@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-21 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-22 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-21 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-21 | 0 |
 | Micron | workday | ✅ OK | 2026-11-21 | 0 |
-| Microsoft | eightfold | ✅ OK | 2026-11-20 | 3 |
+| Microsoft | eightfold | ✅ OK | 2026-11-21 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-21 | 0 |
 | Nvidia | workday | ✅ OK | 2026-11-21 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-21 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-21 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-21 | 2 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-20 | 1 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-21 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-21 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-21 | 4 |
 | Salesforce | workday | ✅ OK | 2026-11-21 | 0 |
@@ -53,7 +53,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Abbott | workday | ✅ OK | 2026-11-21 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-21 | 1 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-21 | 0 |
-| Airbus | workday | ✅ OK | 2026-11-21 | 7 |
+| Airbus | workday | ✅ OK | 2026-11-21 | 6 |
 | Ameriprise Financial | workday | ✅ OK | 2026-11-21 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-21 | 0 |
 | Anthropic | greenhouse | ✅ OK | 2026-11-21 | 0 |
@@ -97,7 +97,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Hevo Data | lever | ✅ OK | 2026-11-21 | 1 |
 | Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-21 | 4 |
 | HighRadius | greenhouse | ✅ OK | 2026-11-21 | 0 |
-| HP | workday | ✅ OK | 2026-11-21 | 1 |
+| HP | workday | ✅ OK | 2026-11-21 | 0 |
 | IMC Trading | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | InMobi | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Invesco | workday | ✅ OK | 2026-11-21 | 0 |
@@ -134,7 +134,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Razorpay | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Roblox | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Rockwell Automation | workday | ✅ OK | 2026-11-21 | 0 |
-| S&P Global | workday | ✅ OK | 2026-11-21 | 3 |
+| S&P Global | workday | ✅ OK | 2026-11-21 | 2 |
 | Sabre | workday | ✅ OK | 2026-11-21 | 0 |
 | Samsara | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-21 | 1 |
@@ -163,7 +163,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Wolters Kluwer | workday | ✅ OK | 2026-11-21 | 0 |
 | Workday | workday | ✅ OK | 2026-11-21 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-21 | 0 |
-| Zebra Technologies | workday | ✅ OK | 2026-11-21 | 14 |
+| Zebra Technologies | workday | ✅ OK | 2026-11-21 | 5 |
 | Zeta | lever | ✅ OK | 2026-11-21 | 0 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-21 | 0 |
