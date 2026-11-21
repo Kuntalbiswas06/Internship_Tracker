@@ -10,7 +10,7 @@
     "first_seen": "2026-11-20T13:31:42.808726Z",
     "id": "ashby:sarvam-ai:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru"
     ],
@@ -76,7 +76,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -99,7 +99,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -167,7 +167,7 @@
     "first_seen": "2026-11-16T07:40:43.386328Z",
     "id": "custom:google:96299220855595718",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
@@ -189,7 +189,7 @@
     "first_seen": "2026-11-05T06:40:40.713522Z",
     "id": "custom:juspay:B-I01",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -211,7 +211,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Mumbai"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -299,7 +299,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "custom:juspay:QE05",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -321,7 +321,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318371",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -343,7 +343,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318430",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -874,7 +874,7 @@
     "first_seen": "2026-11-20T13:31:42.808726Z",
     "id": "greenhouse:agoda:6323041",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurgaon"
     ],
@@ -936,7 +936,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -958,7 +958,7 @@
     "first_seen": "2026-11-20T13:31:42.808726Z",
     "id": "greenhouse:rubrik:8166523",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -990,7 +990,7 @@
     "first_seen": "2026-11-03T04:40:40.226192Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -1052,7 +1052,7 @@
     "first_seen": "2026-11-04T07:40:46.618761Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore"
     ],
@@ -1115,7 +1115,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:stripe:8031833",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru"
     ],
@@ -1210,7 +1210,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-21T02:45:54.299707Z",
     "company": "Paytm",
     "company_slug": "paytm",
     "date_posted": "2026-11-19",
@@ -1223,10 +1223,10 @@
     "locations": [
       "Noida, Uttar Pradesh"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "lever",
-    "status": "open",
+    "status": "closed",
     "title": "Backend - Intern ( SEA & Europe)",
     "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8"
   },
@@ -1309,7 +1309,7 @@
     "first_seen": "2026-11-04T13:01:16.346216Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -1343,7 +1343,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1369,7 +1369,7 @@
     "first_seen": "2026-11-18T06:40:42.718207Z",
     "id": "oracle_hcm:american-express:26016519",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -1399,7 +1399,7 @@
     "first_seen": "2026-11-18T06:40:42.718207Z",
     "id": "oracle_hcm:american-express:26016522",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -1429,7 +1429,7 @@
     "first_seen": "2026-11-18T07:10:51.783851Z",
     "id": "oracle_hcm:american-express:26016754",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, KA, India"
     ],
@@ -1526,7 +1526,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
@@ -1578,7 +1578,7 @@
     "first_seen": "2026-11-04T21:01:18.095155Z",
     "id": "workday:airbus:JR10448021",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "New Delhi"
     ],
@@ -1608,7 +1608,7 @@
     "first_seen": "2026-11-04T21:01:18.095155Z",
     "id": "workday:airbus:JR10448073",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "New Delhi"
     ],
@@ -1638,7 +1638,7 @@
     "first_seen": "2026-11-04T21:01:18.095155Z",
     "id": "workday:airbus:JR10448390",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore Area"
     ],
@@ -1668,7 +1668,7 @@
     "first_seen": "2026-11-04T22:01:13.786203Z",
     "id": "workday:airbus:JR10449142",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore Area"
     ],
@@ -1818,7 +1818,7 @@
     "first_seen": "2026-11-19T07:40:44.685358Z",
     "id": "workday:airbus:JR10449392",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore Area"
     ],
@@ -1878,7 +1878,7 @@
     "first_seen": "2026-11-16T13:40:43.079388Z",
     "id": "workday:airbus:JR10449517",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore Area"
     ],
@@ -1972,7 +1972,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -2088,7 +2088,7 @@
     "first_seen": "2026-11-16T13:01:19.838150Z",
     "id": "workday:baxter:JR-213466",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bangalore, Karnataka"
     ],
@@ -4624,7 +4624,7 @@
       "Chennai, Tamil Nadu, India",
       "Gurugram, Haryana, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -4981,7 +4981,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5011,7 +5011,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5041,7 +5041,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5071,7 +5071,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5101,7 +5101,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5162,7 +5162,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "India, Bengaluru"
     ],
@@ -5558,7 +5558,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "workday:sp-global:332797-1",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Mumbai, Maharastra"
     ],
@@ -5588,7 +5588,7 @@
     "first_seen": "2026-11-17T18:40:47.574810Z",
     "id": "workday:sp-global:332883-1",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Ahmedabad, Gujarat"
     ],
@@ -5622,7 +5622,7 @@
     "locations": [
       "Gurugram, Haryana"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5678,7 +5678,7 @@
     "first_seen": "2026-11-19T12:20:45.530208Z",
     "id": "workday:transunion:19043345",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Hyderabad"
     ],
@@ -5733,7 +5733,7 @@
     "first_seen": "2026-11-20T21:29:34.364272Z",
     "id": "workday:zebra-technologies:JR103237",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, India"
     ],
@@ -5763,7 +5763,7 @@
     "first_seen": "2026-11-19T06:20:44.778212Z",
     "id": "workday:zebra-technologies:JR103383",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, India"
     ],
@@ -5793,7 +5793,7 @@
     "first_seen": "2026-11-19T06:01:21.607020Z",
     "id": "workday:zebra-technologies:JR103384",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, India"
     ],
@@ -5827,7 +5827,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5857,7 +5857,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5887,7 +5887,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5913,7 +5913,7 @@
     "first_seen": "2026-11-19T06:01:21.607020Z",
     "id": "workday:zebra-technologies:JR103681",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, India"
     ],
@@ -5943,7 +5943,7 @@
     "first_seen": "2026-11-19T06:20:44.778212Z",
     "id": "workday:zebra-technologies:JR103699",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "locations": [
       "Bengaluru, India"
     ],
@@ -5977,7 +5977,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6007,7 +6007,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6037,7 +6037,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6067,7 +6067,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6097,7 +6097,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6127,7 +6127,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
