@@ -561,7 +561,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-21T17:38:31.733551Z",
     "company": "Eaton",
     "company_slug": "eaton",
     "date_posted": "2026-11-05",
@@ -582,10 +582,10 @@
     "locations": [
       "Pune, Maharashtra, IND, 411045"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "eightfold",
-    "status": "open",
+    "status": "closed",
     "title": "Intern - Quality",
     "url": "https://eaton.eightfold.ai/careers/job/687240066841"
   },
@@ -2698,7 +2698,7 @@
     "locations": [
       "Hyderabad, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -2730,7 +2730,7 @@
     "locations": [
       "Hyderabad, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -4834,7 +4834,7 @@
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5631,7 +5631,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-21T17:38:31.733551Z",
     "company": "Stryker",
     "company_slug": "stryker",
     "date_posted": null,
@@ -5652,10 +5652,10 @@
     "locations": [
       "Gurugram, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Intern",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Intern_R578197"
   },

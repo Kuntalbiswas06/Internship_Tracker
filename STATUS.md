@@ -78,7 +78,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Datadog | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Druva | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Duolingo | greenhouse | ✅ OK | 2026-11-21 | 0 |
-| Eaton | eightfold | ✅ OK | 2026-11-21 | 3 |
+| Eaton | eightfold | ✅ OK | 2026-11-21 | 2 |
 | Elastic | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Equifax | workday | ✅ OK | 2026-11-21 | 0 |
 | Ericsson | eightfold | ✅ OK | 2026-11-21 | 0 |
@@ -145,7 +145,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Sprinklr | workday | ✅ OK | 2026-11-21 | 0 |
 | Squarepoint Capital | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | State Street | workday | ✅ OK | 2026-11-21 | 0 |
-| Stryker | workday | ✅ OK | 2026-11-21 | 1 |
+| Stryker | workday | ✅ OK | 2026-11-21 | 0 |
 | Sumo Logic | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Swiggy | smartrecruiters | ✅ OK | 2026-11-21 | 0 |
 | Target | workday | ✅ OK | 2026-11-21 | 0 |
