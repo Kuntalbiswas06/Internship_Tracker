@@ -668,7 +668,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -698,7 +698,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -758,7 +758,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -821,7 +821,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -878,7 +878,7 @@
     "locations": [
       "Gurgaon"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "greenhouse",
     "status": "open",
