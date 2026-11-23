@@ -654,7 +654,7 @@
     "closed_at": null,
     "company": "Microsoft",
     "company_slug": "microsoft",
-    "date_posted": "2026-10-26",
+    "date_posted": "2026-11-23",
     "enrichment": {
       "degree": null,
       "duration_months": null,
@@ -962,7 +962,7 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "greenhouse",
     "status": "open",
@@ -1578,7 +1578,7 @@
     "first_seen": "2026-11-04T21:01:18.095155Z",
     "id": "workday:airbus:JR10448021",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "New Delhi"
     ],
@@ -1608,7 +1608,7 @@
     "first_seen": "2026-11-04T21:01:18.095155Z",
     "id": "workday:airbus:JR10448073",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "New Delhi"
     ],
@@ -1642,7 +1642,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1668,7 +1668,7 @@
     "first_seen": "2026-11-04T22:01:13.786203Z",
     "id": "workday:airbus:JR10449142",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Bangalore Area"
     ],
@@ -1822,7 +1822,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1878,7 +1878,7 @@
     "first_seen": "2026-11-16T13:40:43.079388Z",
     "id": "workday:airbus:JR10449517",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Bangalore Area"
     ],
@@ -2088,7 +2088,7 @@
     "first_seen": "2026-11-16T13:01:19.838150Z",
     "id": "workday:baxter:JR-213466",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Bangalore, Karnataka"
     ],
@@ -5114,10 +5114,10 @@
   },
   {
     "category": "other",
-    "closed_at": "2026-11-11T09:10:41.746359Z",
+    "closed_at": null,
     "company": "Micron",
     "company_slug": "micron",
-    "date_posted": "2026-11-11",
+    "date_posted": "2026-11-23",
     "enrichment": {
       "degree": null,
       "duration_months": null,
@@ -5131,15 +5131,15 @@
     "first_seen": "2026-11-11T07:20:44.575675Z",
     "id": "workday:micron:JR108596",
     "is_remote": false,
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-23",
     "locations": [
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596"
   },
@@ -5558,7 +5558,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "workday:sp-global:332797-1",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Mumbai, Maharastra"
     ],
@@ -5588,7 +5588,7 @@
     "first_seen": "2026-11-17T18:40:47.574810Z",
     "id": "workday:sp-global:332883-1",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Ahmedabad, Gujarat"
     ],
@@ -5678,11 +5678,11 @@
     "first_seen": "2026-11-19T12:20:45.530208Z",
     "id": "workday:transunion:19043345",
     "is_remote": false,
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "locations": [
       "Hyderabad"
     ],
-    "missed_runs": 1,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5737,7 +5737,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5767,7 +5767,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5797,7 +5797,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5917,7 +5917,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5947,7 +5947,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
