@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-25 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | BlackRock | workday | ✅ OK | 2026-11-24 | 0 |
 | Cadence | workday | ✅ OK | 2026-11-24 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-24 | 0 |
-| Cisco | workday | ✅ OK | 2026-11-24 | 0 |
+| Cisco | workday | ✅ OK | 2026-11-24 | 1 |
 | Cohesity | workday | ✅ OK | 2026-11-24 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-24 | 0 |
@@ -95,7 +95,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Groww | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Guidewire | workday | ✅ OK | 2026-11-24 | 0 |
 | Hevo Data | lever | ✅ OK | 2026-11-24 | 1 |
-| Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-24 | 4 |
+| Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-24 | 6 |
 | HighRadius | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | HP | workday | ✅ OK | 2026-11-24 | 0 |
 | IMC Trading | greenhouse | ✅ OK | 2026-11-24 | 0 |

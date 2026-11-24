@@ -3966,6 +3966,29 @@
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013949"
   },
   {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "date_posted": "2026-11-24",
+    "enrichment": null,
+    "external_id": "2032859-1",
+    "first_seen": "2026-11-24T21:34:07.654076Z",
+    "id": "workday:cisco:2032859-1",
+    "is_remote": false,
+    "last_seen": "2026-11-24",
+    "locations": [
+      "Bangalore, India",
+      "Pune, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "ASIC Engineer - Spring Internship hiring.",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineer---Spring-Internship-hiring_2032859-1"
+  },
+  {
     "category": "other",
     "closed_at": "2026-10-30T18:50:43.440992Z",
     "company": "Deutsche Bank",
@@ -4276,7 +4299,7 @@
       "Krakow",
       "Bengaluru"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -4827,7 +4850,7 @@
   },
   {
     "category": "other",
-    "closed_at": "2026-11-19T19:10:47.912776Z",
+    "closed_at": null,
     "company": "Hewlett Packard Enterprise",
     "company_slug": "hpe",
     "date_posted": null,
@@ -4844,20 +4867,20 @@
     "first_seen": "2026-11-18T06:50:46.748294Z",
     "id": "workday:hpe:1215491-3",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-24",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "External Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3"
   },
   {
     "category": "other",
-    "closed_at": "2026-11-22T02:36:50.569611Z",
+    "closed_at": null,
     "company": "Hewlett Packard Enterprise",
     "company_slug": "hpe",
     "date_posted": null,
@@ -4874,14 +4897,14 @@
     "first_seen": "2026-11-19T10:10:45.769931Z",
     "id": "workday:hpe:1215608-1",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-24",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "External Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1"
   },
@@ -4902,7 +4925,7 @@
       "Chennai, Tamil Nadu",
       "Bangalore, Karnataka"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
