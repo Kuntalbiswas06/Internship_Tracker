@@ -23,6 +23,28 @@
   },
   {
     "category": "data_ml",
+    "closed_at": null,
+    "company": "Amazon",
+    "company_slug": "amazon",
+    "date_posted": "2026-11-24",
+    "enrichment": null,
+    "external_id": "10443572",
+    "first_seen": "2026-11-24T11:43:29.050147Z",
+    "id": "custom:amazon:10443572",
+    "is_remote": false,
+    "last_seen": "2026-11-24",
+    "locations": [
+      "Chennai, Tamil Nadu, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "custom",
+    "status": "open",
+    "title": "Data Scientist I 6M Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern"
+  },
+  {
+    "category": "data_ml",
     "closed_at": "2026-11-17T09:50:45.493224Z",
     "company": "Apple",
     "company_slug": "apple",
@@ -949,7 +971,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-24T11:43:29.050147Z",
     "company": "Rubrik",
     "company_slug": "rubrik",
     "date_posted": "2026-09-06",
@@ -962,10 +984,10 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer - Winter Intern",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
   },
@@ -1232,6 +1254,28 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Paytm",
+    "company_slug": "paytm",
+    "date_posted": "2026-11-24",
+    "enrichment": null,
+    "external_id": "c8886602-f1b7-4c08-b181-f4d36b2d0e80",
+    "first_seen": "2026-11-24T11:43:29.050147Z",
+    "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
+    "is_remote": false,
+    "last_seen": "2026-11-24",
+    "locations": [
+      "Noida, Uttar Pradesh"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "lever",
+    "status": "open",
+    "title": "Learning Experience Design Intern",
+    "url": "https://jobs.lever.co/paytm/c8886602-f1b7-4c08-b181-f4d36b2d0e80"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-11-10T19:10:44.122982Z",
     "company": "American Express",
     "company_slug": "american-express",
@@ -1295,7 +1339,7 @@
     "closed_at": null,
     "company": "American Express",
     "company_slug": "american-express",
-    "date_posted": "2026-11-19",
+    "date_posted": "2026-11-24",
     "enrichment": {
       "degree": "Bachelor’s degree",
       "duration_months": null,
@@ -1309,11 +1353,11 @@
     "first_seen": "2026-11-04T13:01:16.346216Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 0,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1582,7 +1626,7 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1612,7 +1656,7 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1642,7 +1686,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1668,7 +1712,7 @@
     "first_seen": "2026-11-04T22:01:13.786203Z",
     "id": "workday:airbus:JR10449142",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Bangalore Area"
     ],
@@ -1822,7 +1866,7 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1878,7 +1922,7 @@
     "first_seen": "2026-11-16T13:40:43.079388Z",
     "id": "workday:airbus:JR10449517",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Bangalore Area"
     ],
@@ -5013,7 +5057,7 @@
     "notified": true,
     "source": "workday",
     "status": "open",
-    "title": "Research Intern, Physical AI and GPU (PhD)",
+    "title": "Research Intern, Physical AI and Robotics Systems (PhD)",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253"
   },
   {
@@ -5582,7 +5626,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "workday:sp-global:332797-1",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Mumbai, Maharastra"
     ],
@@ -5612,7 +5656,7 @@
     "first_seen": "2026-11-17T18:40:47.574810Z",
     "id": "workday:sp-global:332883-1",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Ahmedabad, Gujarat"
     ],
@@ -5702,7 +5746,7 @@
     "first_seen": "2026-11-19T12:20:45.530208Z",
     "id": "workday:transunion:19043345",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Hyderabad"
     ],
@@ -5761,7 +5805,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5770,7 +5814,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-24T11:43:29.050147Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -5791,16 +5835,16 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Intern-1",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-1_JR103383"
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-24T11:43:29.050147Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -5821,10 +5865,10 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Intern support II-1",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103384"
   },
@@ -5920,7 +5964,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-24T11:43:29.050147Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -5941,16 +5985,16 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Intern support II-1",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103681"
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-24T11:43:29.050147Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -5971,10 +6015,10 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Intern II",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-II_JR103699"
   },

@@ -8,7 +8,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 |---|---|---|---|---|
 | Adobe | phenom | ✅ OK | 2026-11-24 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Amazon | custom | ✅ OK | 2026-11-24 | 0 |
+| Amazon | custom | ✅ OK | 2026-11-24 | 1 |
 | AMD | custom | ✅ OK | 2026-11-24 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-24 | 4 |
 | Analog Devices | workday | ✅ OK | 2026-11-24 | 0 |
@@ -20,7 +20,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Cadence | workday | ✅ OK | 2026-11-24 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-24 | 0 |
 | Cisco | workday | ✅ OK | 2026-11-24 | 0 |
-| Cohesity | workday | ✅ OK | 2026-11-23 | 0 |
+| Cohesity | workday | ✅ OK | 2026-11-24 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-24 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-24 | 0 |
@@ -39,7 +39,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Quadeye | custom | ✅ OK | 2026-11-24 | 2 |
 | Qualcomm | eightfold | ✅ OK | 2026-11-24 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-24 | 0 |
-| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 4 |
+| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-24 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-24 | 0 |
@@ -53,34 +53,34 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Abbott | workday | ✅ OK | 2026-11-24 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Airbus | workday | ✅ OK | 2026-11-23 | 6 |
+| Airbus | workday | ✅ OK | 2026-11-24 | 6 |
 | Ameriprise Financial | workday | ✅ OK | 2026-11-24 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-24 | 0 |
 | Anthropic | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Anyscale | ashby | ✅ OK | 2026-11-24 | 0 |
 | AQR Capital | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Atlan | ashby | ✅ OK | 2026-11-23 | 0 |
-| Baxter | workday | ✅ OK | 2026-11-23 | 1 |
-| Bosch | smartrecruiters | ✅ OK | 2026-11-23 | 0 |
+| Atlan | ashby | ✅ OK | 2026-11-24 | 0 |
+| Baxter | workday | 🔍 verifying a drop in postings | 2026-11-23 | 1 |
+| Bosch | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Broadcom | workday | ✅ OK | 2026-11-24 | 0 |
 | BrowserStack | workday | ✅ OK | 2026-11-24 | 0 |
 | Caterpillar | workday | ✅ OK | 2026-11-24 | 0 |
 | Ciena | workday | ✅ OK | 2026-11-24 | 0 |
 | Cigna | workday | ✅ OK | 2026-11-24 | 0 |
-| Citi | eightfold | ✅ OK | 2026-11-23 | 0 |
+| Citi | eightfold | ✅ OK | 2026-11-24 | 0 |
 | Cockroach Labs | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Coinbase | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Commvault | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Contentstack | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Contentstack | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Coursera | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | CRED | lever | ✅ OK | 2026-11-24 | 0 |
-| Cummins | oracle_hcm | ✅ OK | 2026-11-23 | 0 |
+| Cummins | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
 | Datadog | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Druva | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Duolingo | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Eaton | eightfold | ✅ OK | 2026-11-24 | 2 |
 | Elastic | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Equifax | workday | ✅ OK | 2026-11-23 | 0 |
+| Equifax | workday | ✅ OK | 2026-11-24 | 0 |
 | Ericsson | eightfold | ✅ OK | 2026-11-24 | 0 |
 | F5 | workday | ✅ OK | 2026-11-24 | 0 |
 | Fidelity Investments | workday | ✅ OK | 2026-11-24 | 0 |
@@ -90,20 +90,20 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | GE HealthCare | workday | ✅ OK | 2026-11-24 | 2 |
 | GE Vernova | workday | ✅ OK | 2026-11-24 | 1 |
 | GitLab | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Glance | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Glance | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Grafana Labs | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Groww | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Guidewire | workday | ✅ OK | 2026-11-24 | 0 |
 | Hevo Data | lever | ✅ OK | 2026-11-24 | 1 |
 | Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-24 | 4 |
-| HighRadius | greenhouse | ✅ OK | 2026-11-23 | 0 |
-| HP | workday | ✅ OK | 2026-11-23 | 0 |
+| HighRadius | greenhouse | ✅ OK | 2026-11-24 | 0 |
+| HP | workday | ✅ OK | 2026-11-24 | 0 |
 | IMC Trading | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | InMobi | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Invesco | workday | ✅ OK | 2026-11-23 | 0 |
+| Invesco | workday | ✅ OK | 2026-11-24 | 0 |
 | Ixigo | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | JFrog | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Johnson Controls | workday | ✅ OK | 2026-11-23 | 0 |
+| Johnson Controls | workday | ✅ OK | 2026-11-24 | 0 |
 | Jump Trading | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Juspay | custom | ✅ OK | 2026-11-24 | 6 |
 | Kong | ashby | ✅ OK | 2026-11-24 | 0 |
@@ -117,57 +117,57 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Navan | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | New Relic | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Nokia | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
-| Northern Trust | workday | ✅ OK | 2026-11-23 | 0 |
+| Northern Trust | workday | ✅ OK | 2026-11-24 | 0 |
 | Notion | ashby | ✅ OK | 2026-11-24 | 0 |
 | Observe.AI | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Okta | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | onsemi | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
 | OpenAI | ashby | ✅ OK | 2026-11-24 | 0 |
-| Palo Alto Networks | workday | ✅ OK | 2026-11-23 | 0 |
-| Paytm | lever | ✅ OK | 2026-11-24 | 0 |
-| Philips | workday | ✅ OK | 2026-11-23 | 0 |
+| Palo Alto Networks | workday | ✅ OK | 2026-11-24 | 0 |
+| Paytm | lever | ✅ OK | 2026-11-24 | 1 |
+| Philips | workday | ✅ OK | 2026-11-24 | 0 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
-| Plane | ashby | ✅ OK | 2026-11-23 | 0 |
+| Plane | ashby | ✅ OK | 2026-11-24 | 0 |
 | Postman | workday | ✅ OK | 2026-11-24 | 0 |
-| PTC | workday | ✅ OK | 2026-11-23 | 0 |
+| PTC | workday | ✅ OK | 2026-11-24 | 0 |
 | Pure Storage | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Razorpay | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Roblox | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Rockwell Automation | workday | ✅ OK | 2026-11-23 | 0 |
-| S&P Global | workday | ✅ OK | 2026-11-23 | 2 |
+| Rockwell Automation | workday | ✅ OK | 2026-11-24 | 0 |
+| S&P Global | workday | ✅ OK | 2026-11-24 | 2 |
 | Sabre | workday | ✅ OK | 2026-11-24 | 0 |
-| Samsara | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Samsara | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-24 | 1 |
 | Scale AI | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Shell | workday | ✅ OK | 2026-11-24 | 0 |
 | Sigmoid | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| SigNoz | ashby | ✅ OK | 2026-11-23 | 0 |
+| SigNoz | ashby | ✅ OK | 2026-11-24 | 0 |
 | Sprinklr | workday | ✅ OK | 2026-11-24 | 0 |
-| Squarepoint Capital | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Squarepoint Capital | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | State Street | workday | ✅ OK | 2026-11-24 | 0 |
 | Stryker | workday | ✅ OK | 2026-11-24 | 0 |
 | Sumo Logic | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Swiggy | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
-| Target | workday | ✅ OK | 2026-11-23 | 0 |
+| Target | workday | ✅ OK | 2026-11-24 | 0 |
 | Tekion | ashby | ✅ OK | 2026-11-24 | 0 |
 | Temporal | ashby | ✅ OK | 2026-11-24 | 0 |
-| Thomson Reuters | workday | ✅ OK | 2026-11-23 | 0 |
-| Toast | greenhouse | ✅ OK | 2026-11-23 | 0 |
-| TransUnion | workday | ✅ OK | 2026-11-23 | 1 |
-| Trimble | workday | ✅ OK | 2026-11-23 | 0 |
+| Thomson Reuters | workday | ✅ OK | 2026-11-24 | 0 |
+| Toast | greenhouse | ✅ OK | 2026-11-24 | 0 |
+| TransUnion | workday | ✅ OK | 2026-11-24 | 1 |
+| Trimble | workday | ✅ OK | 2026-11-24 | 0 |
 | Turing | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Unisys | workday | ✅ OK | 2026-11-23 | 0 |
-| US Bank | workday | ✅ OK | 2026-11-23 | 0 |
+| Unisys | workday | ✅ OK | 2026-11-24 | 0 |
+| US Bank | workday | ✅ OK | 2026-11-24 | 0 |
 | Vercel | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Waymo | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Wolters Kluwer | workday | ✅ OK | 2026-11-24 | 0 |
 | Workday | workday | ✅ OK | 2026-11-24 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Zebra Technologies | workday | ✅ OK | 2026-11-23 | 5 |
+| Zebra Technologies | workday | ✅ OK | 2026-11-24 | 1 |
 | Zeta | lever | ✅ OK | 2026-11-24 | 0 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Zuora | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Zuora | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Arcesium | unknown | ⏸ not tracked | — | 0 |
 | D. E. Shaw | unknown | ⏸ not tracked | — | 0 |
 | Intuit | unknown | ⏸ not tracked | — | 0 |

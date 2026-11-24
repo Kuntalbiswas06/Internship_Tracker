@@ -2,10 +2,15 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**147 closed** · Last updated: 2026-11-24 (IST)
+**152 closed** · Last updated: 2026-11-24 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Rubrik<br><sub>Big Tech</sub> | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 2026-09-06 | 2026-11-24 |
+| Zebra Technologies<br><sub>Big Tech</sub> | Intern-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-1_JR103383) | 2026-11-19 | 2026-11-24 |
+| Zebra Technologies<br><sub>Big Tech</sub> | Intern support II-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103384) | 2026-11-19 | 2026-11-24 |
+| Zebra Technologies<br><sub>Big Tech</sub> | Intern support II-1<br><sub>🎓 degree-seeking post-secondary educational institution</sub> | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-support-II-1_JR103681) | 2026-11-19 | 2026-11-24 |
+| Zebra Technologies<br><sub>Big Tech</sub> | Intern II | Bengaluru, India | — | — | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Intern-II_JR103699) | 2026-11-19 | 2026-11-24 |
 | Agoda<br><sub>Big Tech</sub> | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 2024-10-11 | 2026-11-23 |
 | Cigna<br><sub>Consumer</sub> | HIH - Co-Op/Intern (Non-US Only)<br><sub>🎓 B.E./B.Tech</sub> | Hyderabad, India | — | 2027 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013369) | 2026-11-19 | 2026-11-22 |
 | Cigna<br><sub>Consumer</sub> | HIH - Co-Op/Intern (Non-US Only)<br><sub>🎓 B.E./B.Tech</sub> | Hyderabad, India | — | 2027 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Co-Op-Intern--Non-US-Only-_26013370) | 2026-11-19 | 2026-11-22 |
