@@ -2,7 +2,7 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-25 (IST)
+**162 companies tracked** · 162 OK · 0 failing · 12 not tracked · Last updated: 2026-11-26 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Amazon | custom | ✅ OK | 2026-11-25 | 1 |
 | AMD | custom | ✅ OK | 2026-11-25 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-25 | 4 |
-| Analog Devices | workday | ✅ OK | 2026-11-25 | 0 |
+| Analog Devices | workday | ✅ OK | 2026-11-25 | 1 |
 | Apple | custom | ✅ OK | 2026-11-25 | 0 |
 | Applied Materials | workday | ✅ OK | 2026-11-25 | 0 |
 | Atlassian | custom | ✅ OK | 2026-11-25 | 0 |
