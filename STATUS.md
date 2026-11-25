@@ -31,13 +31,13 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-25 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-25 | 0 |
 | Micron | workday | ✅ OK | 2026-11-25 | 1 |
-| Microsoft | eightfold | ✅ OK | 2026-11-24 | 3 |
+| Microsoft | eightfold | ✅ OK | 2026-11-25 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-25 | 0 |
 | Nvidia | workday | ✅ OK | 2026-11-25 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-25 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-25 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-25 | 2 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-24 | 1 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-25 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-25 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-25 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-25 | 0 |
@@ -88,14 +88,14 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Fivetran | greenhouse | ✅ OK | 2026-11-25 | 0 |
 | Freshworks | smartrecruiters | ✅ OK | 2026-11-25 | 0 |
 | GE HealthCare | workday | ✅ OK | 2026-11-25 | 1 |
-| GE Vernova | workday | ✅ OK | 2026-11-25 | 1 |
+| GE Vernova | workday | ✅ OK | 2026-11-25 | 8 |
 | GitLab | greenhouse | ✅ OK | 2026-11-25 | 0 |
 | Glance | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Grafana Labs | greenhouse | ✅ OK | 2026-11-25 | 0 |
 | Groww | greenhouse | ✅ OK | 2026-11-25 | 0 |
 | Guidewire | workday | ✅ OK | 2026-11-25 | 0 |
 | Hevo Data | lever | ✅ OK | 2026-11-25 | 1 |
-| Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-25 | 6 |
+| Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-25 | 5 |
 | HighRadius | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | HP | workday | ✅ OK | 2026-11-24 | 0 |
 | IMC Trading | greenhouse | ✅ OK | 2026-11-25 | 0 |

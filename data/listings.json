@@ -634,7 +634,7 @@
     "locations": [
       "Pune, Maharashtra, IND, 411014"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -690,7 +690,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -720,7 +720,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -780,7 +780,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -843,7 +843,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -4667,6 +4667,162 @@
     "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/DT-Intern_R5027950-2"
   },
   {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": "2026-11-25",
+    "enrichment": null,
+    "external_id": "R5049954-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5049954-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Power Systems Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Power-Systems-Intern_R5049954-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": "2026-11-25",
+    "enrichment": null,
+    "external_id": "R5050069-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5050069-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Software Engineering Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineering-Intern_R5050069-1"
+  },
+  {
+    "category": "core",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R5053778-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5053778-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern – Aero-Thermal Science",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Intern---Aero-Thermal-Science_R5053778-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R5054938-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5054938-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Co-Op Intern-6",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Co-Op-Intern-6_R5054938-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R5055951-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5055951-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Digital Technology Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Digital-Technology-Intern_R5055951-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R5057073-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5057073-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern-1",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Intern-1_R5057073-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R5058927-1",
+    "first_seen": "2026-11-25T14:52:43.603393Z",
+    "id": "workday:ge-vernova:R5058927-1",
+    "is_remote": false,
+    "last_seen": "2026-11-25",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Grid Automation Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Grid-Automation-Intern_R5058927-1"
+  },
+  {
     "category": "swe",
     "closed_at": "2026-11-21T22:28:39.417214Z",
     "company": "HP",
@@ -4910,7 +5066,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-25T14:52:43.603393Z",
     "company": "Hewlett Packard Enterprise",
     "company_slug": "hpe",
     "date_posted": "2026-11-23",
@@ -4925,10 +5081,10 @@
       "Chennai, Tamil Nadu",
       "Bangalore, Karnataka"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "External Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215609-2"
   },
