@@ -10,7 +10,7 @@
     "first_seen": "2026-11-20T13:31:42.808726Z",
     "id": "ashby:sarvam-ai:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bengaluru"
     ],
@@ -32,7 +32,7 @@
     "first_seen": "2026-11-24T11:43:29.050147Z",
     "id": "custom:amazon:10443572",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Chennai, Tamil Nadu, India"
     ],
@@ -98,7 +98,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -121,7 +121,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -193,7 +193,7 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -211,7 +211,7 @@
     "first_seen": "2026-11-05T06:40:40.713522Z",
     "id": "custom:juspay:B-I01",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Mumbai"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -299,7 +299,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -321,7 +321,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "custom:juspay:QE05",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -343,7 +343,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318371",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -365,7 +365,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318430",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -690,7 +690,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -720,7 +720,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -780,7 +780,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -843,7 +843,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -958,7 +958,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -1012,7 +1012,7 @@
     "first_seen": "2026-11-03T04:40:40.226192Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -1074,7 +1074,7 @@
     "first_seen": "2026-11-04T07:40:46.618761Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore"
     ],
@@ -1141,7 +1141,7 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "greenhouse",
     "status": "open",
@@ -1263,7 +1263,7 @@
     "first_seen": "2026-11-24T11:43:29.050147Z",
     "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Noida, Uttar Pradesh"
     ],
@@ -1357,7 +1357,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1417,7 +1417,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1447,7 +1447,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1477,7 +1477,7 @@
     "locations": [
       "Bengaluru, KA, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1570,7 +1570,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
@@ -1626,7 +1626,7 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1656,7 +1656,7 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -1665,7 +1665,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T05:25:21.321794Z",
     "company": "Airbus",
     "company_slug": "airbus",
     "date_posted": null,
@@ -1686,10 +1686,10 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "FTM Intern",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390"
   },
@@ -1712,7 +1712,7 @@
     "first_seen": "2026-11-04T22:01:13.786203Z",
     "id": "workday:airbus:JR10449142",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore Area"
     ],
@@ -1845,7 +1845,7 @@
   },
   {
     "category": "data_ml",
-    "closed_at": null,
+    "closed_at": "2026-11-26T05:25:21.321794Z",
     "company": "Airbus",
     "company_slug": "airbus",
     "date_posted": null,
@@ -1866,10 +1866,10 @@
     "locations": [
       "Bangalore Area"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Technical Data Analyst Intern",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392"
   },
@@ -1922,7 +1922,7 @@
     "first_seen": "2026-11-16T13:40:43.079388Z",
     "id": "workday:airbus:JR10449517",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore Area"
     ],
@@ -2094,7 +2094,7 @@
     "first_seen": "2026-11-25T23:34:22.288345Z",
     "id": "workday:analog-devices:R267604",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Bangalore, Nova"
     ],
@@ -2158,7 +2158,7 @@
     "locations": [
       "Bangalore, Karnataka"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -3998,7 +3998,7 @@
     "first_seen": "2026-11-24T21:34:07.654076Z",
     "id": "workday:cisco:2032859-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore, India",
       "Pune, India"
@@ -5250,7 +5250,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad"
     ],
@@ -5280,7 +5280,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad"
     ],
@@ -5310,7 +5310,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad"
     ],
@@ -5340,7 +5340,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad"
     ],
@@ -5370,7 +5370,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad"
     ],
@@ -5400,7 +5400,7 @@
     "first_seen": "2026-11-11T07:20:44.575675Z",
     "id": "workday:micron:JR108596",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
@@ -5431,7 +5431,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Bengaluru"
     ],
@@ -5827,7 +5827,7 @@
     "first_seen": "2026-11-17T13:20:43.066677Z",
     "id": "workday:sp-global:332797-1",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-26",
     "locations": [
       "Mumbai, Maharastra"
     ],
@@ -5857,7 +5857,7 @@
     "first_seen": "2026-11-17T18:40:47.574810Z",
     "id": "workday:sp-global:332883-1",
     "is_remote": false,
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-26",
     "locations": [
       "Ahmedabad, Gujarat"
     ],
@@ -5951,7 +5951,7 @@
     "locations": [
       "Hyderabad"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5993,7 +5993,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-26T05:25:21.321794Z",
     "company": "Zebra Technologies",
     "company_slug": "zebra-technologies",
     "date_posted": null,
@@ -6006,10 +6006,10 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237"
   },
