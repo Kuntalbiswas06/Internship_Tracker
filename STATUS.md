@@ -10,7 +10,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-26 | 1 |
 | AMD | custom | ✅ OK | 2026-11-26 | 0 |
-| American Express | oracle_hcm | ✅ OK | 2026-11-26 | 4 |
+| American Express | oracle_hcm | ✅ OK | 2026-11-26 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-26 | 1 |
 | Apple | custom | ✅ OK | 2026-11-26 | 0 |
 | Applied Materials | workday | ✅ OK | 2026-11-26 | 0 |
@@ -24,7 +24,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Databricks | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-26 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-26 | 0 |
-| Google | custom | ✅ OK | 2026-11-26 | 3 |
+| Google | custom | ✅ OK | 2026-11-26 | 2 |
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Intel | workday | ✅ OK | 2026-11-26 | 0 |
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-26 | 0 |
@@ -39,11 +39,11 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Quadeye | custom | ✅ OK | 2026-11-26 | 2 |
 | Qualcomm | eightfold | ✅ OK | 2026-11-26 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-26 | 0 |
-| Rubrik | greenhouse | ✅ OK | 2026-11-26 | 3 |
+| Rubrik | greenhouse | ✅ OK | 2026-11-26 | 4 |
 | Salesforce | workday | ✅ OK | 2026-11-26 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-26 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-26 | 0 |
-| Stripe | greenhouse | ✅ OK | 2026-11-26 | 1 |
+| Stripe | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Texas Instruments | oracle_hcm | ✅ OK | 2026-11-26 | 0 |
 | Tower Research Capital | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Twilio | greenhouse | ✅ OK | 2026-11-26 | 0 |
@@ -53,7 +53,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Abbott | workday | ✅ OK | 2026-11-25 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-26 | 0 |
-| Airbus | workday | ✅ OK | 2026-11-26 | 4 |
+| Airbus | workday | ✅ OK | 2026-11-26 | 6 |
 | Ameriprise Financial | workday | ✅ OK | 2026-11-25 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-26 | 0 |
 | Anthropic | greenhouse | ✅ OK | 2026-11-26 | 0 |
@@ -97,13 +97,13 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Hevo Data | lever | ✅ OK | 2026-11-25 | 1 |
 | Hewlett Packard Enterprise | workday | ✅ OK | 2026-11-25 | 5 |
 | HighRadius | greenhouse | ✅ OK | 2026-11-26 | 0 |
-| HP | workday | ✅ OK | 2026-11-26 | 0 |
+| HP | workday | ✅ OK | 2026-11-26 | 1 |
 | IMC Trading | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | InMobi | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Invesco | workday | ✅ OK | 2026-11-26 | 0 |
 | Ixigo | smartrecruiters | ✅ OK | 2026-11-26 | 0 |
 | JFrog | greenhouse | ✅ OK | 2026-11-26 | 0 |
-| Johnson Controls | workday | ✅ OK | 2026-11-26 | 0 |
+| Johnson Controls | workday | ✅ OK | 2026-11-26 | 7 |
 | Jump Trading | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Juspay | custom | ✅ OK | 2026-11-26 | 6 |
 | Kong | ashby | ✅ OK | 2026-11-26 | 0 |
@@ -125,7 +125,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | OpenAI | ashby | ✅ OK | 2026-11-26 | 0 |
 | Palo Alto Networks | workday | ✅ OK | 2026-11-26 | 0 |
 | Paytm | lever | ✅ OK | 2026-11-26 | 1 |
-| Philips | workday | ✅ OK | 2026-11-26 | 0 |
+| Philips | workday | ✅ OK | 2026-11-26 | 1 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-26 | 0 |
 | Plane | ashby | ✅ OK | 2026-11-26 | 0 |
 | Postman | workday | ✅ OK | 2026-11-26 | 0 |
@@ -164,7 +164,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Workday | workday | ✅ OK | 2026-11-25 | 0 |
 | WorldQuant | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Zebra Technologies | workday | ✅ OK | 2026-11-26 | 0 |
-| Zeta | lever | ✅ OK | 2026-11-26 | 0 |
+| Zeta | lever | ✅ OK | 2026-11-26 | 1 |
 | Zeta Global | greenhouse | ✅ OK | 2026-11-25 | 0 |
 | Zscaler | greenhouse | ✅ OK | 2026-11-26 | 0 |
 | Zuora | greenhouse | ✅ OK | 2026-11-26 | 0 |

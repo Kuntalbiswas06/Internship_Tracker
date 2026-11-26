@@ -180,7 +180,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-26T15:41:22.175421Z",
     "company": "Google",
     "company_slug": "google",
     "date_posted": "2026-11-16",
@@ -193,10 +193,10 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Forward Deployed Engineer Intern, 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/96299220855595718"
   },
@@ -347,7 +347,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -369,7 +369,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -1087,6 +1087,28 @@
   },
   {
     "category": "swe",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "8413157",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "greenhouse:rubrik:8413157",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer (UI) - Winter Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157"
+  },
+  {
+    "category": "swe",
     "closed_at": "2026-11-11T13:11:12.029856Z",
     "company": "Sigmoid",
     "company_slug": "sigmoid",
@@ -1120,7 +1142,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-26T15:41:22.175421Z",
     "company": "Stripe",
     "company_slug": "stripe",
     "date_posted": "2026-07-10",
@@ -1141,10 +1163,10 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer, Intern",
     "url": "https://stripe.com/jobs/search?gh_jid=8031833"
   },
@@ -1276,6 +1298,28 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Zeta",
+    "company_slug": "zeta",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore - WF"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "lever",
+    "status": "open",
+    "title": "Intern",
+    "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-11-10T19:10:44.122982Z",
     "company": "American Express",
     "company_slug": "american-express",
@@ -1336,7 +1380,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T15:41:22.175421Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-24",
@@ -1357,10 +1401,10 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
   },
@@ -1417,7 +1461,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1447,7 +1491,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -1456,7 +1500,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T15:41:22.175421Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-18",
@@ -1477,10 +1521,10 @@
     "locations": [
       "Bengaluru, KA, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016754"
   },
@@ -1609,6 +1653,28 @@
     "company": "Airbus",
     "company_slug": "airbus",
     "date_posted": null,
+    "enrichment": null,
+    "external_id": "JR10447974",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:airbus:JR10447974",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "System Design, modelling and Analysis : Internship",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/System-Design--modelling-and-Analysis---Internship_JR10447974"
+  },
+  {
+    "category": "other",
+    "closed_at": "2026-11-26T15:41:22.175421Z",
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
     "enrichment": {
       "degree": null,
       "duration_months": 6,
@@ -1626,16 +1692,16 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Internship_ FSTD",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship--FSTD_JR10448021"
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T15:41:22.175421Z",
     "company": "Airbus",
     "company_slug": "airbus",
     "date_posted": null,
@@ -1656,10 +1722,10 @@
     "locations": [
       "New Delhi"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Internship_FSTD",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship-FSTD_JR10448073"
   },
@@ -2025,6 +2091,50 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "JR10449608",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:airbus:JR10449608",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Internship - Flight Physics",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Flight-Physics_JR10449608"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "JR10449628",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:airbus:JR10449628",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Internship - Digital Security",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-11-19T06:20:44.778212Z",
     "company": "Airbus",
     "company_slug": "airbus",
@@ -2052,6 +2162,28 @@
     "status": "closed",
     "title": "Internship- FTM MOC",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Airbus",
+    "company_slug": "airbus",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "JR10454573",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:airbus:JR10454573",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore Area"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Cyber Security Data Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Cyber-Security-Data-Intern_JR10454573"
   },
   {
     "category": "hardware",
@@ -2158,7 +2290,7 @@
     "locations": [
       "Bangalore, Karnataka"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -4846,10 +4978,10 @@
   },
   {
     "category": "swe",
-    "closed_at": "2026-11-21T22:28:39.417214Z",
+    "closed_at": null,
     "company": "HP",
     "company_slug": "hp",
-    "date_posted": "2026-11-11",
+    "date_posted": "2026-11-26",
     "enrichment": {
       "degree": null,
       "duration_months": null,
@@ -4863,16 +4995,17 @@
     "first_seen": "2026-11-12T06:01:08.649406Z",
     "id": "workday:hp:3169164-1",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Chennai, Tamil Nadu, India",
+      "Pune, Maharashtra, India",
       "Gurugram, Haryana, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "College Intern - Technical",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/College-Intern---Technical_3169164-1"
   },
@@ -5139,6 +5272,160 @@
     "status": "closed",
     "title": "Attraction Req : Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Intern_JR0279777"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286181",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286181",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/IT-Intern_WD30286181"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286182",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286182",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/IT-Intern_WD30286182"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286317",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286317",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bengaluru-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/IT-Intern_WD30286317"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286318-1",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286318-1",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bengaluru-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/IT-Intern_WD30286318-1"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286319",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286319",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bengaluru-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/IT-Intern_WD30286319"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286320",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286320",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bengaluru-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/IT-Intern_WD30286320"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Johnson Controls",
+    "company_slug": "johnson-controls",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "WD30286321",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:johnson-controls:WD30286321",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bengaluru-Karnataka-India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IT Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/IT-Intern_WD30286321"
   },
   {
     "category": "other",
@@ -5656,6 +5943,28 @@
   },
   {
     "category": "swe",
+    "closed_at": null,
+    "company": "Philips",
+    "company_slug": "philips",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "596114",
+    "first_seen": "2026-11-26T15:41:22.175421Z",
+    "id": "workday:philips:596114",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Chennai (ex Madras)"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Software Intern",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Software-Intern_596114"
+  },
+  {
+    "category": "swe",
     "closed_at": "2026-11-11T18:50:44.604620Z",
     "company": "Salesforce",
     "company_slug": "salesforce",
@@ -5951,7 +6260,7 @@
     "locations": [
       "Hyderabad"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
