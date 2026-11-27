@@ -1,6 +1,6 @@
 
 <!-- LISTINGS:START -->
-**69 open internships** across 27 companies · Last updated: 2026-11-27 (IST)
+**72 open internships** across 29 companies · Last updated: 2026-11-27 (IST)
 
 ### Software Engineering (28)
 
@@ -75,10 +75,14 @@
 | Airbus<br><sub>Industrial</sub> | Intern - Maintenance Engineering & Services<br><sub>🎓 AME / degree level (or equivalent) in Engineering or a rela…</sub> | Bangalore Area | — | — | — | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449517) | 11d |
 | Airbus<br><sub>Industrial</sub> | Internship- Structures | Bangalore Area | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--Structures_JR10449142) | 22d |
 
-### Other (21)
+### Other (24)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 0d |
+| Deutsche Bank<br><sub>Bank</sub> | BITS Interns Jan - June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITS-Interns-Jan---June-2027_R0455693) | 0d |
+| Deutsche Bank<br><sub>Bank</sub> | BITs Interns Jan - June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan---June-2027_R0456805) | 0d |
+| Deutsche Bank<br><sub>Bank</sub> | BITs Interns Jan -June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan--June-2027_R0456670) | 0d |
 | GE Vernova<br><sub>Industrial</sub> | Intern | Hyderabad | — | — | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Intern_R5058608-1) | 0d |
 | Airbus<br><sub>Industrial</sub> | Internship - Flight Physics | Bangalore Area | — | — | — | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Flight-Physics_JR10449608) | 1d |
 | Airbus<br><sub>Industrial</sub> | System Design, modelling and Analysis : Internship | Bangalore Area | — | — | — | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/System-Design--modelling-and-Analysis---Internship_JR10447974) | 1d |
@@ -92,7 +96,6 @@
 | Sarvam AI<br><sub>AI</sub> | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 7d |
 | Hewlett Packard Enterprise<br><sub>Big Tech</sub> | External Intern | Bengaluru, Karnātaka, India | — | — | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1) | 8d |
 | LSEG<br><sub>Finance</sub> | Intern, Accounts Receivables<br><sub>🎓 Accounting, Finance, or a related field</sub> | Colombo, Sri Lanka; IND-Bangalore-A, RMZ Infinity | — | — | — | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Accounts-Receivables_R0125102) | 8d |
-| Hewlett Packard Enterprise<br><sub>Big Tech</sub> | External Intern | Bengaluru, Karnātaka, India | — | — | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3) | 9d |
 | S&P Global<br><sub>Finance</sub> | Apprentice, Insurance Client Services<br><sub>🎓 Bachelor's degree in finance or equivalent</sub> | Ahmedabad, Gujarat | — | — | — | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Insurance-Client-Services_332883-1) | 9d |
 | S&P Global<br><sub>Finance</sub> | Apprentice, Visible Alpha Client Support<br><sub>🎓 Bachelor’s degree in Business, Finance, Economics, or Accou…</sub> | Mumbai, Maharastra | — | — | — | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Apprentice--Visible-Alpha-Client-Support_332797-1) | 10d |
 | GE Vernova<br><sub>Industrial</sub> | DT Intern | Chennai | — | — | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/DT-Intern_R5027950-2) | 22d |

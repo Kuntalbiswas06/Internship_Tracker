@@ -14,7 +14,7 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "ashby",
     "status": "open",
@@ -1424,10 +1424,10 @@
   },
   {
     "category": "other",
-    "closed_at": "2026-11-26T15:41:22.175421Z",
+    "closed_at": null,
     "company": "American Express",
     "company_slug": "american-express",
-    "date_posted": "2026-11-24",
+    "date_posted": "2026-11-27",
     "enrichment": {
       "degree": "Bachelor’s degree",
       "duration_months": null,
@@ -1441,14 +1441,14 @@
     "first_seen": "2026-11-04T13:01:16.346216Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "oracle_hcm",
-    "status": "closed",
+    "status": "open",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
   },
@@ -2274,7 +2274,7 @@
     "locations": [
       "India, Bangalore, Nova"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4179,7 +4179,7 @@
       "Bangalore, India",
       "Pune, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4363,6 +4363,50 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0455693",
+    "first_seen": "2026-11-27T18:16:49.359426Z",
+    "id": "workday:deutsche-bank:R0455693",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "BITS Interns Jan - June 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITS-Interns-Jan---June-2027_R0455693"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0456670",
+    "first_seen": "2026-11-27T18:16:49.359426Z",
+    "id": "workday:deutsche-bank:R0456670",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "BITs Interns Jan -June 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan--June-2027_R0456670"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-10-30T18:50:43.440992Z",
     "company": "Deutsche Bank",
     "company_slug": "deutsche-bank",
@@ -4382,6 +4426,28 @@
     "status": "closed",
     "title": "Apprentice Hiring for 2026- 2027",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Knowledge-Park/Apprentice-Hiring-for-2026--2027_R0456794-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0456805",
+    "first_seen": "2026-11-27T18:16:49.359426Z",
+    "id": "workday:deutsche-bank:R0456805",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "BITs Interns Jan - June 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan---June-2027_R0456805"
   },
   {
     "category": "other",
@@ -5227,7 +5293,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-27T18:16:49.359426Z",
     "company": "Hewlett Packard Enterprise",
     "company_slug": "hpe",
     "date_posted": null,
@@ -5248,10 +5314,10 @@
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "External Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3"
   },
@@ -5278,7 +5344,7 @@
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5758,7 +5824,7 @@
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",

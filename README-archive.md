@@ -6,6 +6,7 @@ Listings that are no longer on the company's career page. [Back to the open inte
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Hewlett Packard Enterprise<br><sub>Big Tech</sub> | External Intern | Bengaluru, Karnātaka, India | — | — | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215491-3) | 2026-11-18 | 2026-11-27 |
 | Eaton<br><sub>Industrial</sub> | Apprentice. IT. Development Program | Pune, Maharashtra, IND, 411014 | — | — | — | [Apply](https://eaton.eightfold.ai/careers/job/687240121118) | 2026-11-11 | 2026-11-27 |
 | Quadeye<br><sub>Quant</sub> | Intern - Quant Researcher | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371) | 2026-06-29 | 2026-11-27 |
 | Quadeye<br><sub>Quant</sub> | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 2026-06-29 | 2026-11-27 |
@@ -15,7 +16,6 @@ Listings that are no longer on the company's career page. [Back to the open inte
 | TransUnion<br><sub>Finance</sub> | Intern - Process Excellence<br><sub>🎓 Bachelor’s degree</sub> | Hyderabad | — | — | — | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Intern---Process-Excellence_19043345) | 2026-11-19 | 2026-11-27 |
 | Airbus<br><sub>Industrial</sub> | Internship\_ FSTD | New Delhi | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship--FSTD_JR10448021) | 2026-11-05 | 2026-11-26 |
 | Airbus<br><sub>Industrial</sub> | Internship\_FSTD | New Delhi | 6 months | — | 6 mo | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Internship-FSTD_JR10448073) | 2026-11-05 | 2026-11-26 |
-| American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2026-11-24 | 2026-11-26 |
 | American Express<br><sub>Fintech</sub> | Apprentice<br><sub>🎓 Commerce/Business Administration</sub> | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 2026-11-18 | 2026-11-26 |
 | Google<br><sub>Big Tech</sub> | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 2026-11-16 | 2026-11-26 |
 | Stripe<br><sub>Fintech</sub> | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 2026-07-10 | 2026-11-26 |
