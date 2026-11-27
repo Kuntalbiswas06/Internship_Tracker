@@ -334,7 +334,7 @@
   },
   {
     "category": "quant",
-    "closed_at": null,
+    "closed_at": "2026-11-27T08:14:42.486484Z",
     "company": "Quadeye",
     "company_slug": "quadeye",
     "date_posted": "2026-06-29",
@@ -347,16 +347,16 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Intern - Quant Researcher",
     "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371"
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-27T08:14:42.486484Z",
     "company": "Quadeye",
     "company_slug": "quadeye",
     "date_posted": "2026-06-29",
@@ -369,10 +369,10 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Intern - Systems Engineer",
     "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430"
   },
@@ -510,7 +510,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "eightfold:eaton:687239705382",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Pune, Maharashtra, IND, 411014"
     ],
@@ -613,7 +613,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-27T08:14:42.486484Z",
     "company": "Eaton",
     "company_slug": "eaton",
     "date_posted": "2026-11-11",
@@ -634,12 +634,56 @@
     "locations": [
       "Pune, Maharashtra, IND, 411014"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
+    "source": "eightfold",
+    "status": "closed",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687240121118"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "687240496341",
+    "first_seen": "2026-11-27T08:14:42.486484Z",
+    "id": "eightfold:eaton:687240496341",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 0,
+    "notified": false,
     "source": "eightfold",
     "status": "open",
     "title": "Apprentice. IT. Development Program",
-    "url": "https://eaton.eightfold.ai/careers/job/687240121118"
+    "url": "https://eaton.eightfold.ai/careers/job/687240496341"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Eaton",
+    "company_slug": "eaton",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "687240496622",
+    "first_seen": "2026-11-27T08:14:42.486484Z",
+    "id": "eightfold:eaton:687240496622",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Pune, Maharashtra, IND, 411014"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Apprentice. IT. Development Program",
+    "url": "https://eaton.eightfold.ai/careers/job/687240496622"
   },
   {
     "category": "data_ml",
@@ -1241,7 +1285,7 @@
     "first_seen": "2026-11-03T06:10:41.248990Z",
     "id": "lever:hevo-data:993a3ed3-3014-432f-b0f4-28d300d58d9a",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bangalore, India"
     ],
@@ -2230,7 +2274,7 @@
     "locations": [
       "India, Bangalore, Nova"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4135,7 +4179,7 @@
       "Bangalore, India",
       "Pune, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -4569,7 +4613,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:ge-healthcare:R4043882-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "IND19-01-Bengaluru-EPIP 122 (Phase II)"
     ],
@@ -4809,7 +4853,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:ge-vernova:R5027950-2",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Chennai"
     ],
@@ -4831,7 +4875,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5049954-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Hyderabad",
       "Bengaluru"
@@ -4854,7 +4898,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5050069-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Hyderabad",
       "Bengaluru"
@@ -4877,7 +4921,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5053778-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bengaluru"
     ],
@@ -4899,7 +4943,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5054938-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bengaluru"
     ],
@@ -4921,7 +4965,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5055951-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Hyderabad"
     ],
@@ -4943,7 +4987,7 @@
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5057073-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Hyderabad"
     ],
@@ -4961,11 +5005,33 @@
     "company_slug": "ge-vernova",
     "date_posted": null,
     "enrichment": null,
+    "external_id": "R5058608-1",
+    "first_seen": "2026-11-27T08:14:42.486484Z",
+    "id": "workday:ge-vernova:R5058608-1",
+    "is_remote": false,
+    "last_seen": "2026-11-27",
+    "locations": [
+      "Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Intern_R5058608-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "GE Vernova",
+    "company_slug": "ge-vernova",
+    "date_posted": null,
+    "enrichment": null,
     "external_id": "R5058927-1",
     "first_seen": "2026-11-25T14:52:43.603393Z",
     "id": "workday:ge-vernova:R5058927-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Hyderabad"
     ],
@@ -5028,7 +5094,7 @@
     "first_seen": "2026-11-12T06:10:43.589728Z",
     "id": "workday:hpe:1191423",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -5058,7 +5124,7 @@
     "first_seen": "2026-11-04T20:51:05.533083Z",
     "id": "workday:hpe:1211843-2",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -5118,7 +5184,7 @@
     "first_seen": "2026-11-05T10:31:00.799496Z",
     "id": "workday:hpe:1215487-1",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
@@ -5182,7 +5248,7 @@
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5212,7 +5278,7 @@
     "locations": [
       "Bengaluru, Karnātaka, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -5506,7 +5572,7 @@
     "first_seen": "2026-11-19T07:31:01.063123Z",
     "id": "workday:lseg:R0125102",
     "is_remote": false,
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-27",
     "locations": [
       "Colombo, Sri Lanka",
       "IND-Bangalore-A, RMZ Infinity"
@@ -5692,7 +5758,7 @@
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
