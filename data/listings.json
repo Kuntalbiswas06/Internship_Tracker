@@ -5420,7 +5420,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5442,7 +5442,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5464,7 +5464,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5486,7 +5486,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5508,7 +5508,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5530,7 +5530,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5552,7 +5552,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -6088,7 +6088,7 @@
     "locations": [
       "Chennai (ex Madras)"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -6272,7 +6272,7 @@
     "locations": [
       "Mumbai, Maharastra"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6281,7 +6281,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-28T17:45:52.091584Z",
     "company": "S&P Global",
     "company_slug": "sp-global",
     "date_posted": null,
@@ -6302,16 +6302,16 @@
     "locations": [
       "Ahmedabad, Gujarat"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "workday",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice, Insurance Client Services",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Insurance-Client-Services_332883-1"
   },
   {
     "category": "other",
-    "closed_at": "2026-11-21T22:28:39.417214Z",
+    "closed_at": null,
     "company": "S&P Global",
     "company_slug": "sp-global",
     "date_posted": null,
@@ -6328,14 +6328,14 @@
     "first_seen": "2026-11-17T13:01:28.310708Z",
     "id": "workday:sp-global:332888-1",
     "is_remote": false,
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-28",
     "locations": [
       "Gurugram, Haryana"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": true,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "Apprentice, Client Support",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Client-Support_332888-1"
   },
