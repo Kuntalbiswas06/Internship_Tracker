@@ -1,7 +1,7 @@
 [
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-28T09:23:28.627430Z",
     "company": "Sarvam AI",
     "company_slug": "sarvam-ai",
     "date_posted": "2026-11-20",
@@ -14,10 +14,10 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "ashby",
-    "status": "open",
+    "status": "closed",
     "title": "Product User Research, Intern",
     "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72"
   },
@@ -887,7 +887,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -1702,7 +1702,7 @@
     "first_seen": "2026-11-26T15:41:22.175421Z",
     "id": "workday:airbus:JR10447974",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -1822,7 +1822,7 @@
     "first_seen": "2026-11-04T22:01:13.786203Z",
     "id": "workday:airbus:JR10449142",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -2032,7 +2032,7 @@
     "first_seen": "2026-11-16T13:40:43.079388Z",
     "id": "workday:airbus:JR10449517",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -2144,7 +2144,7 @@
     "first_seen": "2026-11-26T15:41:22.175421Z",
     "id": "workday:airbus:JR10449608",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -2166,7 +2166,7 @@
     "first_seen": "2026-11-26T15:41:22.175421Z",
     "id": "workday:airbus:JR10449628",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -2218,7 +2218,7 @@
     "first_seen": "2026-11-26T15:41:22.175421Z",
     "id": "workday:airbus:JR10454573",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore Area"
     ],
@@ -5127,7 +5127,7 @@
     "first_seen": "2026-11-12T06:01:08.649406Z",
     "id": "workday:hp:3169164-1",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Chennai, Tamil Nadu, India",
@@ -5420,7 +5420,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5442,7 +5442,7 @@
     "locations": [
       "Bangalore-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5464,7 +5464,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5486,7 +5486,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5508,7 +5508,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5530,7 +5530,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -5552,7 +5552,7 @@
     "locations": [
       "Bengaluru-Karnataka-India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -6088,7 +6088,7 @@
     "locations": [
       "Chennai (ex Madras)"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -6272,7 +6272,7 @@
     "locations": [
       "Mumbai, Maharastra"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6302,7 +6302,7 @@
     "locations": [
       "Ahmedabad, Gujarat"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "workday",
     "status": "open",
@@ -6338,6 +6338,28 @@
     "status": "closed",
     "title": "Apprentice, Client Support",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Client-Support_332888-1"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "S&P Global",
+    "company_slug": "sp-global",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "333054-1",
+    "first_seen": "2026-11-28T09:23:28.627430Z",
+    "id": "workday:sp-global:333054-1",
+    "is_remote": false,
+    "last_seen": "2026-11-28",
+    "locations": [
+      "Ahmedabad, Gujarat"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Apprentice, Capital Markets Client Support",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Capital-Markets-Client-Support_333054-1"
   },
   {
     "category": "other",

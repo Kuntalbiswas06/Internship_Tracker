@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**171 closed** · Last updated: 2026-11-28 (IST)
+**172 closed** · Last updated: 2026-11-28 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Sarvam AI<br><sub>AI</sub> | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 2026-11-20 | 2026-11-28 |
 | Analog Devices<br><sub>Semiconductor</sub> | Analog Design Intern | India, Bangalore, Nova | — | — | — | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Analog-Design-Intern_R267604) | 2026-11-26 | 2026-11-28 |
 | Cisco<br><sub>Big Tech</sub> | ASIC Engineer - Spring Internship hiring. | Bangalore, India; Pune, India | — | — | — | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineer---Spring-Internship-hiring_2032859-1) | 2026-11-24 | 2026-11-28 |
 | Hewlett Packard Enterprise<br><sub>Big Tech</sub> | External Intern | Bengaluru, Karnātaka, India | — | — | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1) | 2026-11-19 | 2026-11-28 |
